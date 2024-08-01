@@ -8,3 +8,9 @@ body {
   max-width: 60rem;
   margin: auto;
 }
+
+blockquote {
+  margin-inline-start: 1.5rem;
+  padding-inline-start: 1.5rem;
+  border-left: 1px solid ButtonBorder;
+}

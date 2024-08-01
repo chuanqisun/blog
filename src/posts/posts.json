@@ -1,6 +1,6 @@
 {
   "layout": "post.njk",
-  "permalink": "/post/{{ title | slugify}}/",
+  "permalink": "/posts/{{ title | slugify}}/",
   "tags": [
     "post"
   ]
