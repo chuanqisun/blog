@@ -2,11 +2,16 @@
   color-scheme: light dark;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 body {
   font-family: system-ui, sans-serif;
 
   max-width: 60rem;
-  margin: auto;
+  margin: 1rem auto 2rem auto;
+  padding: 0 1rem;
 }
 
 blockquote {

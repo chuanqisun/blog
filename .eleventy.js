@@ -19,6 +19,14 @@ export default function (eleventyConfig) {
     },
   });
   eleventyConfig.addPassthroughCopy("src/style.css");
+
+  eleventyConfig.addFilter("humanDate", (dateObj) => {
+    return new Date(dateObj).toLocaleDateString("en-US");
+  });
+  eleventyConfig.addFilter("machineDate", (dateObj) => {
+    return new Date(dateObj).toISOString();
+  });
+
   return {
     dir: {
       input: "src",

@@ -7,14 +7,9 @@
 	<link rel="stylesheet" href="/style.css">
 </head>
 <body>
-	<header>
-		<h1>{{ title }}</h1>
-	</header>
+	{% include "partials/nav.njk" %}
 	<main>
 		{{ content | safe }}
 	</main>
-	<footer>
-		<a href="/feed.xml">rss</a>
-	</footer>
 </body>
 </html>

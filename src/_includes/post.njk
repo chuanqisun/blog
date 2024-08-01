@@ -7,14 +7,13 @@
 	<link rel="stylesheet" href="/style.css">
 </head>
 <body>
+	{% include "partials/nav.njk" %}
 	<header>
 		<h1>{{ title }}</h1>
+		<div><time datetime="{{date | machineDate}}">{{ date | humanDate }}<time></div> <div>{% for tag in keywords %} #{{ tag }} {% endfor %}</div>
 	</header>
 	<main>
 		{{ content | safe }}
 	</main>
-	<footer>
-		<a href="/feed.xml">rss</a>
-	</footer>
 </body>
 </html>

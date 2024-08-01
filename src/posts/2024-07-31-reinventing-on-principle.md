@@ -1,5 +1,6 @@
 ---
 title: Reinventing on Principle
+date: 2024-07-31
 keywords: ["career"]
 ---
 
