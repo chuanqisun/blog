@@ -16,14 +16,14 @@ I'm leaving the team that is building [Microsoft's internal knowledge base for U
 
 And a few unfulfilled dreams:
 
-1. Didn't pick up another language, either Rust or Go.
+1. Didn't pick up another language, Rust and Haskell remain on my list.
 2. Didn't have a chance to build a text editor.
 3. Didn't design a DSL for LLM interpreter.
-4. Didn't [toss hot potatoes](https://danmall.com/posts/hot-potato-process/) with designers.
+4. Didn't [toss hot potatoes](https://danmall.com/posts/hot-potato-process/) with my teammates.
 5. Didn't provide enough technical mentorship for junior UI/UX engineers.
 6. Didn't daily drive a Linux machine for development.
 
-While the team couldn't provide everything I dreamed of, I was lucky to have the freedom to innovate on things that mattered to me. As they say, you win some, lose some. So, no regrets. As for next, I am joining hands with [John Maede](https://en.wikipedia.org/wiki/John_Maeda) in realizing our shared vision for Computational Design. I wrote this in my farewell message:
+While the team couldn't provide everything I dreamed of, I was lucky to have the freedom to innovate on things that mattered to me. As they say, you win some, lose some. So, no regrets. As for next, I am joining hands with [John Maede](https://en.wikipedia.org/wiki/John_Maeda) in realizing our shared vision for [Computational Design](https://howtospeakmachine.com/2019/02/14/how-to-speak-machine/). I wrote this in my farewell message:
 
 > I'm leaving the project at this precious moment because I have to pursue another mission at AIPX. That is to bring designers and engineers together into a new discipline called Computational Design. I've tried this on my own with every project in the past and failed every single time. The circumstances have never been better than what AIPX has shown, where designers are finally exploring coding as part of the craft, thanks to AI coding assistance. I've learned the lesson over and over in my career: as a mentor, you can't help people who don't want help. As a developers, your best software must be adopted, not sold. As a presenter, don't answer a question that the audience are not ready to ask. Now people are asking the right question, adopting a new way of work, and needing my help. I've prepared for this moment my entire career.
 >
