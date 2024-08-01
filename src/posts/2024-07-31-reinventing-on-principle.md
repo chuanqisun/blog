@@ -3,7 +3,7 @@ title: Reinventing on Principle
 keywords: ["career"]
 ---
 
-I'm leaving the team that is building Microsoft's internal knowledge base for UX researche. It was one heck of a ride for the past four years:
+I'm leaving the team that is building [Microsoft's internal knowledge base for UX researche](https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/how-microsofts-human-insights-library-creates-a-living-body-of-knowledge/). It was one heck of a ride for the past four years:
 
 1. I learned to program in a [Datalog dialect](https://github.com/cozodb/cozo).
 1. Picked up Python again (since my undergrad intro to CS) and wrote my first Jupyter Notebook.
