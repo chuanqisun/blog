@@ -1,6 +1,6 @@
 ---
 title: Reinventing on Principle
-keywords: ["meta"]
+keywords: ["career"]
 ---
 
 I'm leaving the team that is building Microsoft's internal knowledge base for UX researche. It was one heck of a ride for the past four years:
