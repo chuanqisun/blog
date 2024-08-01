@@ -1,14 +1,9 @@
 ---
 title: The Vanishing Designer
+subtitle: UX design in the age of standardization.
 date: 2022-07-22
-keywords: ["career"]
+keywords: ["design"]
 ---
-
-Top highlight
-
-# The vanishing designer
-
-## UX design in the age of standardization.
 
 ![A black & white photo with a person standing on empty land, holding umbrellas, vanishing into the mist.](https://miro.medium.com/v2/resize:fit:700/1*lhMyOw5uf7tDN38lekuxPQ.jpeg)
 

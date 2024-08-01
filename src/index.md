@@ -3,9 +3,9 @@ title: Stack Diver
 layout: "base.njk"
 ---
 
-# Posts
+# Recent posts
 
-{% for post in collections.post %}
+{% for post in collections.post limit: 10 reversed %}
 
 <!-- hide the "post" tag because it is self-evidence -->
 

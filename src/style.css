@@ -8,6 +8,7 @@ html {
 
 body {
   font-family: system-ui, sans-serif;
+  font-size: 120%;
 
   max-width: 60rem;
   margin: 1rem auto 2rem auto;
