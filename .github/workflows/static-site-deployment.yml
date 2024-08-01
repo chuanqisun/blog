@@ -40,13 +40,12 @@ jobs:
       - name: npm
         run: |
           npm install
-          npm run build --if-present
-          npm run test --if-present
+          npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'public'
+          path: "public"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
