@@ -1,5 +1,5 @@
 ---
-title: A case against “pixel perfect” design
+title: A Case Against “Pixel Perfect” Design
 date: 2019-10-23
 keywords: ["design"]
 ---
