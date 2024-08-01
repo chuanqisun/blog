@@ -11,8 +11,8 @@ export default function (eleventyConfig) {
     metadata: {
       language: "en",
       title: "Stack Diver",
-      subtitle: "Inquiry of zeros and ones",
-      base: "https://blog.chuanqisun.com/",
+      subtitle: "An Inquiry into Zeros and Ones",
+      base: "https://stackdiver.com/",
       author: {
         name: "Chuanqi Sun",
       },
