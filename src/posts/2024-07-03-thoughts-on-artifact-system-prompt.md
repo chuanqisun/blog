@@ -23,4 +23,4 @@ To circumvent the limitation on what's javasript library is packaged for browser
 - Use [importmap](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap) to alias the imported package names to an esm.sh url
 - Have esm.sh resolve rest of the import graph.
 
-Based on this idea, I created [esplay](https://github.com/chuanqisun/esplay) to run any TypeScript/TSX code in the browser, include the code that uses of module import statements. And with that, my side project [iter](https://github.com/chuanqisun/iter) is Artifact-enabled!
+Based on this idea, I created [esplay](https://github.com/chuanqisun/esplay) to run any TypeScript/TSX code in the browser, allowing module import for arbitrary npm packages. And with that, my side project [iter](https://github.com/chuanqisun/iter) received the artifact upgrade!
