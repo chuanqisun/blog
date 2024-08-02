@@ -5,7 +5,7 @@ date: 2023-11-08
 keywords: ["ai", "business"]
 ---
 
-At [untools](https://untools.co/), for just [€6/month](https://app.untools.co/), they can!
+As a thought experiment, maybe at [untools](https://untools.co/), for just [€6/month](https://app.untools.co/), they can!
 
 Are they conceptual frameworks, or maybe, meta-conceptual frameworks? My immediate thoughts are that an effective Agent should:
 
