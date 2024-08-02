@@ -9,6 +9,7 @@ html {
 body {
   font-family: system-ui, sans-serif;
   font-size: 120%;
+  line-height: 1.5;
 
   max-width: 60rem;
   margin: 1rem auto 2rem auto;
@@ -19,4 +20,10 @@ blockquote {
   margin-inline-start: 1.5rem;
   padding-inline-start: 1.5rem;
   border-left: 1px solid ButtonBorder;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin-inline: auto;
 }
