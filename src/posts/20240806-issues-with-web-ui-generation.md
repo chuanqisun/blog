@@ -24,7 +24,7 @@ AI can't "touch" what it can "see".
 
 Without great documentation, AI can't tell what is possible and must rely on guessing, or worse, hallucinating.
 
-- Using popular libraries with good documentation is better than esoteric libraries. A case in point is Claude 3.5 Artifact implemented with [shadcn/ui](https://ui.shadcn.com/). Other good libraries are [Material UI](https://mui.com/material-ui/) and [Ant Design](https://ant.design/).
+- Using popular libraries with good documentation is better than esoteric or private libraries. A case in point is Claude 3.5 Artifact successfully leveraged [shadcn/ui](https://ui.shadcn.com/) according to [the leaked system prompt](https://gist.github.com/dedlim/6bf6d81f77c19e20cd40594aa09e3ecd). Other good libraries are [Material UI](https://mui.com/material-ui/) and [Ant Design](https://ant.design/).
 - Due to knowledge cutoff, popular libraries also suffer from knowledge gap when AI uses their latest releases.
 - Open-ended generation is easy. Following specific instructions is hard. Satify all constraints is extremely hard, and maybe [NP-hard](https://en.wikipedia.org/wiki/Complexity_of_constraint_satisfaction).
 - AI fears blank canvas too! It's a good idea to turn generation problem into extrapolation and interpolation problems. We essentially use existing UI as "few-shot" examples to produce similar UIs that are variations on the same theme. Photoshop [generative fill](https://www.adobe.com/products/photoshop/generative-fill.html) and Figma AI's [Add relevant content](https://www.figma.com/blog/introducing-figma-ai/#bring-designs-to-life-with-realistic-copy-and) both take advantage of this pattern.
