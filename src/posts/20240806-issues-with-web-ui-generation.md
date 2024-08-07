@@ -25,11 +25,12 @@ AI can't "touch" what it can "see".
 Without great documentation, AI can't tell what is possible and must rely on guessing, or worse, hallucinating.
 
 - Using popular libraries with good documentation is better than esoteric libraries. A case in point is Claude 3.5 Artifact implemented with [shadcn/ui](https://ui.shadcn.com/). Other good libraries are [Material UI](https://mui.com/material-ui/) and [Ant Design](https://ant.design/).
-- Due to knowledge cutoff, even popular libraries suffer from knowledge gap when AI uses their latest releases.
-- Open-ended generation is easy. Following specific instructions or constraints is hard.
-- It's good idea to turn generation into extrapolation and interpolation. We essentially use existing UI as "few-shot" examples to produce similar UIs that are variations on the same theme. Photoshop [generative fill](https://www.adobe.com/products/photoshop/generative-fill.html) and Figma AI's [Add relevant content](https://www.figma.com/blog/introducing-figma-ai/#bring-designs-to-life-with-realistic-copy-and) both take advantage of this pattern.
-- What if the elements in the UI can express their domain and range? If we have self-documented code, why can't we have self-documented UI?
-- How do we progressively disclose documentation without overwheliming the AI?
+- Due to knowledge cutoff, popular libraries also suffer from knowledge gap when AI uses their latest releases.
+- Open-ended generation is easy. Following specific instructions is hard. Satify all constraints is extremely hard, and maybe [NP-hard](https://en.wikipedia.org/wiki/Complexity_of_constraint_satisfaction).
+- AI fears blank canvas too! It's a good idea to turn generation problem into extrapolation and interpolation problems. We essentially use existing UI as "few-shot" examples to produce similar UIs that are variations on the same theme. Photoshop [generative fill](https://www.adobe.com/products/photoshop/generative-fill.html) and Figma AI's [Add relevant content](https://www.figma.com/blog/introducing-figma-ai/#bring-designs-to-life-with-realistic-copy-and) both take advantage of this pattern.
+- What if the elements in the UI can encode their domain and range? In addition to self-documented code, can we have self-documented UI?
+- Towards [Evolutionary Design](https://en.wikipedia.org/wiki/Evolutionary_computation). Isn't our DNA a form of self-documentation? Can we distribute the complexity of documentation across the UI elements and use hierarchy for abstraction/compression?
+- How do we progressively disclose documentation without overwheliming the AI? In addition to hierarchy ([atomic design](https://bradfrost.com/blog/post/atomic-web-design/)), will knowledge graph better represent the relationships between UI elements?
 
 ## The Time Dimension
 
