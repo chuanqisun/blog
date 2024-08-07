@@ -43,6 +43,6 @@ Change is the only constant.
 - "Shallow" mock-ups are much easier than "deep" behavioral prototypes. In other words, AI is good at [drawing dead fish](https://vimeo.com/64895205). But we want to generate UI, not screenshots.
 - Figma prototyping tool already bottomed out here, manifested as [prototype spaghetti](https://forum.figma.com/t/header-nav-and-prototype-spaghetti/1534). No-code low-code app builder and visual programming IDE like [Sratch](https://scratch.mit.edu/) haven't solved it either. Instead they either fully encapsulate the behavior into premade components, or kick the can down the road by having the user draw the [unwieldy state machine](https://blog.sbensu.com/posts/demand-for-visual-programming/). There is a huge market waiting for a better solution.
 - We might benefit from models that can natively perceive videos, instead of keyframes.
-- We could diffing the UI in both text and visual space to represent change.
-- Where do get training data for diff of UI states?
-- What is the tradeoff between declarative vs. imperative representation of change? What can we learn from CRDTs?
+- We could diff the UI in both text and visual space to represent change. Or we should simply show the before and after.
+- Where do get training data for the diff of UI states?
+- What is the tradeoff between declarative and imperative representation of change? What can we learn from [Operation vs State-based CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type#Types_of_CRDTs)? What is AI's cognitive load when reasoning over each?
