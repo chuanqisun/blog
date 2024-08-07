@@ -16,7 +16,7 @@ AI can't "touch" what it can "see".
 - How can we expect AI to successfully manipulate the source code while only being able to use the final results as objective/feedback?
 - Modern tools and frameworks make it worse. The DOM is littered with [CSS-in-JS garbled class names](https://stackoverflow.com/questions/59686504/whats-the-purpose-of-giving-unreadable-css-class-names-in-whatsapp-web) and deeply nested `div`s. The source code can be TypeScript or JSX, which further increases the causal distance from source to target.
 - We can manipulate surface level representations, e.g. DOM or generate the screenshot, but the edit is cannot be persisted back to the source code.
-- How do we express goals and constraints in the visual space? [tldraw/makereal](https://makereal.tldraw.com/) is a solid start.
+- How do we express goals and constraints in the visual space? [tldraw/makereal](https://github.com/tldraw/make-real) is a solid start.
 - How do we engineer "backpropagation" for Web UI Generation?
 - How do we provide "direct manipulation" to AI?
 
