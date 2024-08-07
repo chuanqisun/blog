@@ -15,17 +15,17 @@ AI can't "touch" what it can "see".
   `Source -[compiler/bundler] -> JS/CSS -[interpreter/renderer] -> DOM/CSSOM -[renderer] -> Screens`
 - How can we expect AI to successfully manipulate the source code while only being able to use the final results as objective/feedback?
 - Modern tools and frameworks make it worse. The DOM is littered with [CSS-in-JS garbled class names](https://stackoverflow.com/questions/59686504/whats-the-purpose-of-giving-unreadable-css-class-names-in-whatsapp-web) and deeply nested `div`s. The source code can be TypeScript or JSX, which further increases the causal distance from source to target.
-- How do we express goals and constraints in the visual space? [tldraw/makereal](https://makereal.tldraw.com/) is a solid start.
 - We can manipulate surface level representations, e.g. DOM or generate the screenshot, but the edit is cannot be persisted back to the source code.
+- How do we express goals and constraints in the visual space? [tldraw/makereal](https://makereal.tldraw.com/) is a solid start.
 - How do we engineer "backpropagation" for Web UI Generation?
-- How do we engineer "direct manipulation" for AI?
-- Can we turn this into an online reinforcement learning problem?
+- How do we provide "direct manipulation" to AI?
 
 ## Unknown Unknowns
 
 Without great documentation, AI can't tell what is possible and must rely on guessing, or worse, hallucinating.
 
-- Using popular libraries with good documentation is better than esoteric libraries. A case in point is Claude 3.5 Artifact implemented with [shadcn/ui](https://ui.shadcn.com/). Other good libraries are Material UI and Ant Design.
+- Using popular libraries with good documentation is better than esoteric libraries. A case in point is Claude 3.5 Artifact implemented with [shadcn/ui](https://ui.shadcn.com/). Other good libraries are [Material UI](https://mui.com/material-ui/) and [Ant Design](https://ant.design/).
+- Due to knowledge cutoff, even popular libraries suffer from knowledge gap when AI uses their latest releases.
 - Open-ended generation is easy. Following specific instructions or constraints is hard.
 - It's good idea to turn generation into extrapolation and interpolation. We essentially use existing UI as "few-shot" examples to produce similar UIs that are variations on the same theme. Photoshop [generative fill](https://www.adobe.com/products/photoshop/generative-fill.html) and Figma AI's [Add relevant content](https://www.figma.com/blog/introducing-figma-ai/#bring-designs-to-life-with-realistic-copy-and) both take advantage of this pattern.
 - What if the elements in the UI can express their domain and range? If we have self-documented code, why can't we have self-documented UI?
