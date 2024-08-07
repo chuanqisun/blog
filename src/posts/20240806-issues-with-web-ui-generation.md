@@ -14,7 +14,7 @@ AI can't "touch" what it can "see".
 - Screenshots (binary), DOM (tree), and source code (graph) are orthogonal representations of states, connected by causal relationships:  
   `Source -[compiler/bundler] -> JS/CSS -[interpreter/renderer] -> DOM/CSSOM -[renderer] -> Screens`
 - How can we expect AI to successfully manipulate the source code while only being able to use the final results as objective/feedback?
-- Modern tools and frameworks make it worse. The DOM is littered with CSS-in-JS garbage class names. The the source code can be TypeScript or JSX, which increases the causal distance between source and target.
+- Modern tools and frameworks make it worse. The DOM is littered with [CSS-in-JS garbled class names](https://stackoverflow.com/questions/59686504/whats-the-purpose-of-giving-unreadable-css-class-names-in-whatsapp-web) and deeply nested `div`s. The source code can be TypeScript or JSX, which further increases the causal distance from source to target.
 - How do we express goals and constraints in the visual space? [tldraw/makereal](https://makereal.tldraw.com/) is a solid start.
 - We can manipulate surface level representations, e.g. DOM or generate the screenshot, but the edit is cannot be persisted back to the source code.
 - How do we engineer "backpropagation" for Web UI Generation?
