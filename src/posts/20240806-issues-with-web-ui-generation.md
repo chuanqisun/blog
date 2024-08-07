@@ -8,9 +8,9 @@ With my [recent move](../reinventing-on-principle) into the AI+UX space, I'm not
 
 ## Hand-eye Coordination
 
-What AI "sees" is not what AI can "touch".
+AI can't "touch" what it can "see".
 
-- Vision model perceives screenshots. Text model perceives serialized DOM tree and style sheets. But generate/edit UI, the model can only affect source code.
+- Vision model perceives screenshots. Text model perceives serialized DOM tree and style sheets. But to generate/edit UI, the model often affects source code.
 - Screenshots (binary), DOM (tree), and source code (graph) are orthogonal representations of states, connected by causal relationships:  
   `Source -[compiler/bundler] -> JS/CSS -[interpreter/renderer] -> DOM/CSSOM -[renderer] -> Screens`
 - How can we expect AI to successfully manipulate the source code while only being able to use the final results as objective/feedback?
