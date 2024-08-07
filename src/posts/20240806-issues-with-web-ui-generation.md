@@ -39,8 +39,9 @@ Change is the only constant.
 - The source code is not a static representation of the desired UI. Abstraction such as "signals" and "hooks" represents how information _changes_ over time. AI is lack the affordance to perceive such change.
 - The transformation takes place outside of AI's perception:  
   `DOM -[User interaction or time triggered events] -> Changed DOM`
-- "Shallow" mock-ups are much easier than "deep" behavioral prototypes.
-- Figma prototyping tool also bottomed out here, manifested as [prototype spaghetti](https://forum.figma.com/t/header-nav-and-prototype-spaghetti/1534).
+- "Shallow" mock-ups are much easier than "deep" behavioral prototypes. In other words, AI is good at [drawing dead fish](https://vimeo.com/64895205). But we want to generate UI, not screenshots.
+- Figma prototyping tool already bottomed out here, manifested as [prototype spaghetti](https://forum.figma.com/t/header-nav-and-prototype-spaghetti/1534). No-code low-code app builder and visual programming IDE like [Sratch](https://scratch.mit.edu/) [haven't solved it either](https://blog.sbensu.com/posts/demand-for-visual-programming/). Instead they either fully encapsulate the behavior into premade components, or kick the can down the road and have the user raw the unwieldy state machine. There is a huge market waiting for a better solution.
 - We might benefit from models that can natively perceive videos, instead of keyframes.
 - We could diffing the UI in both text and visual space to represent change.
+- Where do get training data for diff of UI states?
 - What is the tradeoff between declarative vs. imperative representation of change? What can we learn from CRDTs?
