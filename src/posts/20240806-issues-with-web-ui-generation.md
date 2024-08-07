@@ -37,7 +37,7 @@ Without great documentation, AI can't tell what is possible and must rely on gue
 
 Change is the only constant.
 
-- The source code is not a static representation of the desired UI. Abstraction such as "signals" and "hooks" represents how information _changes_ over time. AI is lack the affordance to perceive such change.
+- The source code is not a static representation of the desired UI. Abstraction such as "signals" and "hooks" represents how information _changes_ over time. There is no handle for AI to grab onto such change.
 - The transformation takes place outside of AI's perception:  
   `DOM -[User interaction or time triggered events] -> Changed DOM`
 - "Shallow" mock-ups are much easier than "deep" behavioral prototypes. In other words, AI is good at [drawing dead fish](https://vimeo.com/64895205). But we want to generate UI, not screenshots.
