@@ -4,7 +4,7 @@ date: 2024-08-06
 keywords: ["ai", "design"]
 ---
 
-With my [recent move](../reinventing-on-principle) into the AI+UX space, I'm noticing unresolved issues in Generating Web UI with LLM. I want to revisit these issues as my research progress.
+With my [recent move](../reinventing-on-principle) into the AI+UX space, I'm noticing unresolved issues in Generating Web UI with LLM. I want to revisit these issues as my research progresses.
 
 ## Hand-eye Coordination
 
