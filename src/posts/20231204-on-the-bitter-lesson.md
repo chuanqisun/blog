@@ -1,5 +1,5 @@
 ---
-title: On The Bitter Lesson
+title: On the Bitter Lesson
 date: 2023-12-04
 keywords: ["ai", "business"]
 ---

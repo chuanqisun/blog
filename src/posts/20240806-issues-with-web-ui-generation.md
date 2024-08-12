@@ -1,5 +1,5 @@
 ---
-title: Issues with Web UI Generation
+title: Issues With Web UI Generation
 date: 2024-08-06
 keywords: ["ai", "design"]
 ---

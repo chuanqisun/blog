@@ -1,5 +1,5 @@
 ---
-title: Lessons from A Bike Shop
+title: Lessons From a Bike Shop
 date: 2024-08-11
 keywords: ["career", "learning"]
 ---

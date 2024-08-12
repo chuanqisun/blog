@@ -1,5 +1,5 @@
 ---
-title: What If Your Agents Can Rent Tools for Thought?
+title: What if Your Agents Can Rent Tools for Thought?
 subtitle: UX design in the age of standardization.
 date: 2023-11-08
 keywords: ["ai", "business"]
