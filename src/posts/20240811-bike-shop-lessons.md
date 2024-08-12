@@ -1,7 +1,7 @@
 ---
 title: Lessons from A Bike Shop
 date: 2024-08-11
-keywords: ["cycling"]
+keywords: ["career", "learning"]
 ---
 
 A year ago, I started building bikes for [REI](https://www.rei.com/). My friends and family were doubtful how long I would last. They saw it as a job for teenagers, not a career for a software engineer. They might be right in that younger people can benefit from a transitional job like this while they study towards a college degree and ultimately move onto something more lucrative and purposeful. I am not in that camp. I had always enjoyed spending long hours working on my own bikes. I saw it as a form of therapy, where I can finally tune out the constant murmur of the software problems in my head.
