@@ -1,7 +1,7 @@
 ---
 title: All Predictions Are Wrong
 date: 2024-01-01
-keywords: ["design"]
+keywords: ["design", "opinion"]
 ---
 
 All designs are predictions. All predictions are wrong.
