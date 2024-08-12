@@ -5,7 +5,7 @@ layout: "base.njk"
 
 # Recent posts
 
-{% for post in collections.post limit: 10 reversed %}
+{% for post in collections.post limit: 100 reversed %}
 
 <!-- hide the "post" tag because it is self-evidence -->
 
