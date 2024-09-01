@@ -1,5 +1,5 @@
 ---
-title: Reading "Optimal Illusions"
+title: Reading Optimal Illusions
 date: 2024-08-31
 keywords: ["book", "rowing"]
 ---
