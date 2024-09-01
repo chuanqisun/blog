@@ -14,4 +14,4 @@ But I've also experienced the opposite in rowing. The coach would tell us to not
 
 I keep reminding myself, numbers are a proxy, a map, an abstraction. They are [Ceci n'est pas une pipe](https://en.wikipedia.org/wiki/The_Treachery_of_Images), but they are not the real pipe. Sometimes we need to turn away from the numbers to observe and understand reality they represent.
 
-I would like to find the balance Coco Krume suggested in her book, knowing how far to push the Optimization game without losing the big picture, but more importantly, knowing when to unplug, for there are finer things in life we should enjoy, instead of optimize.
+I would like to find the balance Coco Krume suggested in her book, knowing how far to push the Optimization game without losing perspectives, but more importantly, knowing when to unplug, for there are finer things in life we should _enjoy_, instead of optimize.
