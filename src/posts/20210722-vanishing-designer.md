@@ -60,5 +60,3 @@ To myself, to other designers, to our discipline, to this young and ever-shiftin
 14. Design freely (and think freely).
 
 ![](https://miro.medium.com/v2/resize:fit:94/0*TB8AOcxTqA8-5N9f.png)
-
-The UX Collective donates US$1 for each article we publish. This story contributed to [World-Class Designer School](https://www.wcd.school/): a college-level, tuition-free design school focused on preparing young and talented African designers for the local and international digital product market. Build the design community you believe in.
