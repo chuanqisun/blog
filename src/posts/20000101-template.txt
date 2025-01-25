@@ -4,4 +4,6 @@ date: 2024-01-01
 keywords: ["design"]
 ---
 
+[Example link to other posts](../slug-of-post/)
+
 
