@@ -16,7 +16,7 @@ In contrast, Type 2 work is defined by its creative demands and the presence of 
 
 ## Comparison
 
-For me, coding is often Type 1 work, while design is Type 2 work. I've made this chart to compare the two types of work. Knowning which type of work I'm currently doing helps me approach challanges with the right mindset.
+For me, coding is often Type 1 work, while design is Type 2 work. I've made this chart to compare the two types of work. Knowning which one I'm doing helps me approach challanges with the right expectation for results.
 
 | Aspect             | Type 1 Work         | Type 2 Work                |
 | ------------------ | ------------------- | -------------------------- |
