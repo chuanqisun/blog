@@ -27,3 +27,20 @@ img {
   max-width: 100%;
   margin-inline: auto;
 }
+
+table {
+  width: 100%;
+  border: 1px solid ButtonBorder;
+  border-collapse: collapse;
+  text-align: left;
+
+  th,
+  td {
+    padding: 2px 8px;
+  }
+
+  thead th {
+    font-weight: bold;
+    border-bottom: 1px solid ButtonBorder;
+  }
+}
