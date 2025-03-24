@@ -1,5 +1,5 @@
 ---
-title: Maps, Compass, and AI
+title: Map, Compass, and AI
 date: 2025-03-25
 keywords: ["career", "philosophy", "ai"]
 ---
