@@ -4,7 +4,15 @@ date: 2025-04-19
 keywords: ["ai", "engineering"]
 ---
 
-The agent hype is still on the rise but the quality and efficiency of agentic systems are far from production-ready. As people scramble to come up with agentic system architectures, I saw [Humanlayer](https://www.humanlayer.dev/) dropping this tongue-in-cheek principle in [12-factor-agents](https://github.com/humanlayer/12-factor-agents). As a functional programming lover, I'm drooling over this diagram:
+The agent hype is still on the rise but the quality and efficiency of agentic systems are far from production-ready. As people scramble to come up with agentic system architectures, I saw [Humanlayer](https://www.humanlayer.dev/) dropping this tongue-in-cheek principle in [12-factor-agents](https://github.com/humanlayer/12-factor-agents).
+
+> **Factor 12 - Make your agent a stateless reducer!**
+>
+> If we [...] accept that "an AI Agent is basically a for loop", then what's the lispy version of this? And AI agent is a foldL where the accumulator is a context window, and the reducer is an LLM DetermineNextStep + a switch statement on how to handle it.
+>
+> -- [12-factor-agents](https://github.com/humanlayer/12-factor-agents/blob/main/content/factor-12-stateless-reducer.md)
+
+As a functional programming lover, I'm drooling over that diagram:
 
 ```txt
 +---------+     +-----------+     +-----+   +-----+     +-------------------+
@@ -20,12 +28,6 @@ The agent hype is still on the rise but the quality and efficiency of agentic sy
       |                                                           |
       +-----------------------------------------------------------+
 ```
-
-> **Factor 12 - Make your agent a stateless reducer!**
->
-> If we [...] accept that "an AI Agent is basically a for loop", then what's the lispy version of this? And AI agent is a foldL where the accumulator is a context window, and the reducer is an LLM DetermineNextStep + a switch statement on how to handle it.
->
-> -- [12-factor-agents](https://github.com/humanlayer/12-factor-agents/blob/main/content/factor-12-stateless-reducer.md)
 
 Does this look familiar to you as a frontend developer? It should. This is essentially the [Flux](https://facebookarchive.github.io/flux/docs/in-depth-overview) pattern that many popular frontend frameworks are based on. It is a really good "divide and conquer" strategy that modularizes state management into pure functional components and compose them in a conflict-free manner. In fact, we can model most Human-Computer interactions as a similar loop:
 
