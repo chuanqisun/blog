@@ -46,7 +46,7 @@ Does this look familiar to you as a frontend developer? It should. This is essen
       +-----------------------------------------------------------+
 ```
 
-But can we take it a step further? React is good at managing the state of this **Human**-Computer Interaction loop, can we swap out the human with an AI agent and literally use React Hooks as the state management layer for an agentic system?
+But can we take it a step further? React is good at managing the state of this **Human**-initiated interaction loop. What if we use an agent to interpret user's goal and perform the most relevant actions that a real human would perform? Can we keep using React Hooks as the state management layer for the rest of the system?
 
 Let's start with a classic counter app:
 
@@ -66,30 +66,30 @@ function MyApp() {
 }
 ```
 
-To agentify it, let's replace `useState` with `useAgentState`, `useCallback` with `useAgentTool`. Then call `agent.run` to trigger agent actions, like this:
+To agentify it, let's replace `useState` with `useAgentState`, `useCallback` with `useAgentTool`. Then call `agent.run` with the intention of the user.
 
 ```tsx
 function MyAgent() {
   const agent = useAgent();
-  const [idea, setIdea] = useAgentState("Use React Hooks for agentic state management");
+  const [idea, setIdea] = useAgentState("Use React Hooks to manage AI agent state");
   useAgentTool("Adjust idea", z.string().describe("The updated idea"));
 
-  const takeMoreRisk = () => agent.run("Take more risk");
-  const takeLessRisk = () => agent.run("Take less risk");
+  const beMoreCreative = () => agent.run("Make the idea more creative");
+  const beMoreCautious = () => agent.run("Make the idea more cautious");
 
   return (
     <div>
       <div>Idea: {idea}</div>
-      <button onClick={takeMoreRisk}>Take more risk</button>
-      <button onClick={takeLessRisk}>Take less risk</button>
+      <button onClick={beMoreCreative}>Be more creative</button>
+      <button onClick={beMoreCautious}>Be more cautious</button>
     </div>
   );
 }
 ```
 
-By the way, I've made the above real with a few custom hooks. You can play with the [React Agentic Counter](https://stackblitz.com/edit/react-agentic-counter?file=src%2Fmain.jsx) live. (BYO OpenAI API key)
+You can try it in this [live demo](https://stackblitz.com/edit/react-agentic-counter?file=src%2Fmain.jsx) live. (BYO OpenAI API key)
 
-This can be a powerful idea for engineers, designers, and product managers.
+I think this is a powerful idea for engineers, designers, and product managers.
 
 ## Technical merits
 
@@ -100,7 +100,7 @@ This can be a powerful idea for engineers, designers, and product managers.
 
 ## HCI merits
 
-1. The human user _is_ steering the agent when they take actions on the UI that cause the state and tool availability to change.
+1. The human user _is_ steering the agent by just clicking and navigating around. The human actions cause the agent state and tool availability to change.
 1. As state and tool availability change, the agent's context window is automatically aligned with the most relevant task based on the UI.
 1. Both the human user and the agent share the entire UI state and tools to interact with it. The I/O is much richer than the prevailing prompt-driven approach.
 1. Good UI Information Architecture automatically becomes good Agent Cognitive Architecture. Many [UX laws](https://alistapart.com/article/psychology-of-design/) translate well into AI Psychology.
