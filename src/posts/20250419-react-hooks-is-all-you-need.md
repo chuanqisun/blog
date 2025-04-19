@@ -4,7 +4,7 @@ date: 2025-04-19
 keywords: ["ai", "engineering"]
 ---
 
-The agent hype is still on the rise but the quality and efficiency of agentic systems are far from production-ready. As people scramble to come up with new architectures to tackle the agentic system design challenge, I saw [Humanlayer](https://www.humanlayer.dev/) dropping this tongue-in-cheek principle in [12-factor-agents](https://github.com/humanlayer/12-factor-agents). As a functional programming lover, I'm drooling over this diagram:
+The agent hype is still on the rise but the quality and efficiency of agentic systems are far from production-ready. As people scramble to come up with agentic system architectures, I saw [Humanlayer](https://www.humanlayer.dev/) dropping this tongue-in-cheek principle in [12-factor-agents](https://github.com/humanlayer/12-factor-agents). As a functional programming lover, I'm drooling over this diagram:
 
 ```txt
 +---------+     +-----------+     +-----+   +-----+     +-------------------+
