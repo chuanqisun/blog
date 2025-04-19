@@ -70,24 +70,35 @@ To agentify it, let's replace `useState` with `useAgentState`, `useCallback` wit
 
 ```tsx
 function MyAgent() {
-  const agent = useAgent();
-  const [idea, setIdea] = useAgentState("Use React Hooks to manage AI agent state");
-  useAgentTool("Adjust idea", z.string().describe("The updated idea"));
+  const agent = useAgent({ apiKey });
+  const [person, setPerson] = useAgentState("Person", { name: "John", age: 24 });
 
-  const beMoreCreative = () => agent.run("Make the idea more creative");
-  const beMoreCautious = () => agent.run("Make the idea more cautious");
+  useAgentTool(
+    `Update the person's age to be older or younger`,
+    z.number().describe("the delta of age, positive to grow older, negative to grow younger"),
+    (update) => setPerson((prev) => ({ ...prev, age: prev.age + update.delta }))
+  );
+
+  const growMuchYounger = agent.run("Grow much younger");
+  const growYounger = agent.run("Grow younger");
+  const growOlder = agent.run("Grow older");
+  const growMuchOlder = agent.run("Grow much older");
 
   return (
     <div>
-      <div>Idea: {idea}</div>
-      <button onClick={beMoreCreative}>Be more creative</button>
-      <button onClick={beMoreCautious}>Be more cautious</button>
+      <div>
+        {userProfile.name} is currently {userProfile.age} years old
+      </div>
+      <button onClick={growMuchYounger}>Grow much younger</button>
+      <button onClick={growYounger}>Grow younger</button>
+      <button onClick={growOlder}>Grow older</button>
+      <button onClick={growMuchOlder}>Grow much older</button>
     </div>
   );
 }
 ```
 
-You can try it in this [live demo](https://stackblitz.com/edit/react-agentic-counter?file=src%2Fmain.jsx) live. (BYO OpenAI API key)
+You can try it in this [live demo](https://stackblitz.com/edit/react-agentic-counter?file=src%2Fmain.jsx) (BYO OpenAI API key).
 
 I think this is a powerful idea for engineers, designers, and product managers.
 
