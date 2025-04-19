@@ -29,7 +29,7 @@ As a functional programming lover, I'm drooling over that diagram:
       +-----------------------------------------------------------+
 ```
 
-Does this look familiar to you as a frontend developer? It should. This is essentially the [Flux](https://facebookarchive.github.io/flux/docs/in-depth-overview) pattern that many popular frontend frameworks are based on. It is a really good "divide and conquer" strategy that modularizes state management into pure functional components and compose them in a conflict-free manner. In fact, we can model most Human-Computer interactions as a similar loop:
+Does this look familiar to you as a frontend developer? It should. This is essentially the [Flux](https://facebookarchive.github.io/flux/docs/in-depth-overview) pattern that many popular frontend frameworks are based on. It is a really good "divide and conquer" strategy that modularizes state management into pure functional components and compose them in a conflict-free manner. Not surprisingly, we can model most Human-Computer interactions as a React render loop:
 
 ```txt
 +---------+     +-----------+     +-----+   +-----+     +---------------------+
