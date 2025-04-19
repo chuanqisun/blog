@@ -1,6 +1,17 @@
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+import { createHighlighter } from "shiki";
 
-export default function (eleventyConfig) {
+/**
+ * @import { UserConfig } from "@11ty/eleventy"
+ */
+
+/**
+ * @param {UserConfig} eleventyConfig
+ * @returns
+ */
+export default async function (eleventyConfig) {
+  const highlighter = await createHighlighter({ themes: ["dark-plus"], langs: ["js", "jsx", "ts", "tsx", "html", "css"] });
+
   eleventyConfig.addPlugin(feedPlugin, {
     type: "rss",
     outputPath: "/feed.xml",
@@ -25,6 +36,13 @@ export default function (eleventyConfig) {
   });
   eleventyConfig.addFilter("machineDate", (dateObj) => {
     return new Date(dateObj).toISOString();
+  });
+
+  // ref: https://www.hoeser.dev/blog/2023-02-07-eleventy-shiki-simple/
+  eleventyConfig.amendLibrary("md", (md) => {
+    md.set({
+      highlight: (code, lang) => highlighter.codeToHtml(code, { lang, theme: "dark-plus" }),
+    });
   });
 
   return {

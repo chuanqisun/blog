@@ -44,3 +44,7 @@ table {
     border-bottom: 1px solid ButtonBorder;
   }
 }
+
+.shiki {
+  padding: 1ch;
+}
