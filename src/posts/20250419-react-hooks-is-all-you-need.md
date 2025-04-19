@@ -111,4 +111,4 @@ This can be a powerful idea for engineers, designers, and product managers.
 
 If you find the idea interesting, you can use the [react-agent-hooks](https://github.com/chuanqisun/react-agent-hooks) library to try it out. I look forward to seeing what you will build with it.
 
-\*Footnote: The title is word play on the [ReAct paper](https://arxiv.org/abs/2210.03629) and the [Attention is All You Need paper](https://arxiv.org/abs/1706.03762). It's almost poetic that ReAct and React are meeting each other here.
+\*Footnote: The title is word play on [ReAct](https://arxiv.org/abs/2210.03629) and [Attention is All You Need](https://arxiv.org/abs/1706.03762). It's almost poetic that ReAct and React are finally meeting each other here.
