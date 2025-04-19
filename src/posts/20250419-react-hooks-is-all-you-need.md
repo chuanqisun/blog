@@ -98,7 +98,9 @@ function MyAgent() {
 }
 ```
 
-You can try it in this [live demo](https://stackblitz.com/edit/react-agentic-counter?file=src%2Fmain.jsx) (BYO OpenAI API key).
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/edit/react-agentic-counter?file=src%2Fmain.jsx)
+
+You can BYO OpenAI API key to give the [live demo](https://stackblitz.com/edit/react-agentic-counter?file=src%2Fmain.jsx) a try.
 
 I think this is a powerful idea for engineers, designers, and product managers.
 
@@ -122,6 +124,6 @@ I think this is a powerful idea for engineers, designers, and product managers.
 1. A good React developer automatically becomes a good Agent developer, maximizing skill transfer.
 1. It paves a smooth path for UI to evolve into agents. You can imagine at some point in the future, we set `display: none` on the entire UI and what's left is a fully functional agent.
 
-If you want to build your own agentic app with React, I've implemented the ideas in this post into the [react-agent-hooks](https://github.com/chuanqisun/react-agent-hooks) library. I look forward to seeing what you build with it.
+If you want to build your own agentic app with React, I've implemented the ideas in this post into the [react-agent-hooks](https://github.com/chuanqisun/react-agent-hooks) library. I hope that would give you a head start. I look forward to seeing what you build with it.
 
 \*Footnote: The title is word play on [ReAct](https://arxiv.org/abs/2210.03629) and [Attention is All You Need](https://arxiv.org/abs/1706.03762). It's almost poetic that ReAct and React are finally meeting each other here.

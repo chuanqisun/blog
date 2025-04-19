@@ -27,6 +27,10 @@ img {
   max-width: 100%;
   margin-inline: auto;
 }
+img[src^="https://developer.stackblitz.com/"]
+{
+  margin: 0;
+}
 
 table {
   width: 100%;
