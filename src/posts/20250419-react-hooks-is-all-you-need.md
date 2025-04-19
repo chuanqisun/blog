@@ -4,7 +4,7 @@ date: 2025-04-19
 keywords: ["ai", "engineering"]
 ---
 
-The agent hype is still on the rise but the quality and efficiency of agentic systems are far from production-ready. As people scramble to come up with new architectures tackle the agentic system design challenge, I saw [Humanlayer](https://www.humanlayer.dev/) dropping this tongue-in-cheek principle in [12-factor-agents](https://github.com/humanlayer/12-factor-agents). As a functional programming lover, I'm drooling over this diagram:
+The agent hype is still on the rise but the quality and efficiency of agentic systems are far from production-ready. As people scramble to come up with new architectures to tackle the agentic system design challenge, I saw [Humanlayer](https://www.humanlayer.dev/) dropping this tongue-in-cheek principle in [12-factor-agents](https://github.com/humanlayer/12-factor-agents). As a functional programming lover, I'm drooling over this diagram:
 
 ```txt
 +---------+     +-----------+     +-----+   +-----+     +-------------------+
@@ -27,7 +27,7 @@ The agent hype is still on the rise but the quality and efficiency of agentic sy
 >
 > -- [12-factor-agents](https://github.com/humanlayer/12-factor-agents/blob/main/content/factor-12-stateless-reducer.md)
 
-Does this look familiar to you as frontend developer? It should. This is essentially the [Flux](https://facebookarchive.github.io/flux/docs/in-depth-overview) pattern that many popular frontend frameworks are based on. It is a really good "divide and conquer" strategy that modularizes state management into pure functional components and compose them in a conflict-free manner. In fact, we can model most Human-Computer interactions as a similar loop:
+Does this look familiar to you as a frontend developer? It should. This is essentially the [Flux](https://facebookarchive.github.io/flux/docs/in-depth-overview) pattern that many popular frontend frameworks are based on. It is a really good "divide and conquer" strategy that modularizes state management into pure functional components and compose them in a conflict-free manner. In fact, we can model most Human-Computer interactions as a similar loop:
 
 ```txt
 +---------+     +-----------+     +-----+   +-----+     +---------------------+
@@ -44,7 +44,7 @@ Does this look familiar to you as frontend developer? It should. This is essenti
       +-----------------------------------------------------------+
 ```
 
-But can we take it a step further? React pretty good at managing the state of this **Human**-Computer Interaction loop, can we swap out the human with an AI agent and literally use React Hooks as the state management layer for an agentic systems?
+But can we take it a step further? React is good at managing the state of this **Human**-Computer Interaction loop, can we swap out the human with an AI agent and literally use React Hooks as the state management layer for an agentic system?
 
 Let's start with a classic counter app:
 
@@ -64,7 +64,7 @@ function MyApp() {
 }
 ```
 
-To agentify it, let's replace `useState` with `useAgentState`, `useCallback` with `useAgentTool`. Then call `agent.run` to trigger agent actions, like this;
+To agentify it, let's replace `useState` with `useAgentState`, `useCallback` with `useAgentTool`. Then call `agent.run` to trigger agent actions, like this:
 
 ```tsx
 function MyAgent() {
@@ -85,30 +85,30 @@ function MyAgent() {
 }
 ```
 
-And btw, I've made the above real with a few custom hooks. You can play with the [React Agenti Counter](https://stackblitz.com/edit/react-agent-counter?file=src%2Fmain.jsx) live. (BYO OpenAI API key)
+By the way, I've made the above real with a few custom hooks. You can play with the [React Agentic Counter](https://stackblitz.com/edit/react-agentic-counter?file=src%2Fmain.jsx) live. (BYO OpenAI API key)
 
 This can be a powerful idea for engineers, designers, and product managers.
 
 ## Technical merits
 
-1. You can compose an entire application with states and tools just as you would do with composing a well-architected React app.
+1. You can compose an entire application with declarative states and tools just as you would do in a well-architected React app.
 1. Developers fully control the implementation of tool use. Correctness and efficiency are in your hands.
 1. Agents are only used as tool choosers and parameter fillers. This means much faster response and less room for hallucination.
-1. Agent actions are reflected back to the UI immediately, using a well-understood `UI = f(State)` rendering model.
+1. Agent actions affect UI immediately and deterministically, using the well-understood `UI = f(State)` rendering model.
 
 ## HCI merits
 
-1. Human user _is_ steering the agent when they take actions on the UI that cause the state and tool availability to change.
-1. As state and tool availability change, you can align the agent's context window to the most relevant task as communicated by the UI.
-1. Both human user and the agent share the entire UI state and tools to interact with it. The I/O is much richer than the prevailing prompt-driven approach.
-1. UI Information Architecture automatically becomes good Agent Cognitive Architecture. Many [UX laws](https://alistapart.com/article/psychology-of-design/) translates well into AI Psychology
+1. The human user _is_ steering the agent when they take actions on the UI that cause the state and tool availability to change.
+1. As state and tool availability change, the agent's context window is automatically aligned with the most relevant task based on the UI.
+1. Both the human user and the agent share the entire UI state and tools to interact with it. The I/O is much richer than the prevailing prompt-driven approach.
+1. Good UI Information Architecture automatically becomes good Agent Cognitive Architecture. Many [UX laws](https://alistapart.com/article/psychology-of-design/) translate well into AI Psychology.
 
 ## Business merits
 
 1. In-place enhancement for existing React applications. It's not a rewrite. It's incremental agentification.
 1. A good React developer automatically becomes a good Agent developer, maximizing skill transfer.
-1. It paves a smooth path for UI to evolve into Agent. You can imagine at some point in the future, we set `display: none` on the entire UI. You end up with a full agent.
+1. It paves a smooth path for UI to evolve into agents. You can imagine at some point in the future, we set `display: none` on the entire UI and what's left is a fully functional agent.
 
-If you find the idea interesting, you can use the [react-agent-hooks](https://github.com/chuanqisun/react-agent-hooks) library to try it out. I look forward to seeing what you will build with it.
+If you want to build your own agentic app with React, please try out the [react-agent-hooks](https://github.com/chuanqisun/react-agent-hooks) library and share what you build with the world. I look forward to seeing crazy ideas!
 
 \*Footnote: The title is word play on [ReAct](https://arxiv.org/abs/2210.03629) and [Attention is All You Need](https://arxiv.org/abs/1706.03762). It's almost poetic that ReAct and React are finally meeting each other here.
