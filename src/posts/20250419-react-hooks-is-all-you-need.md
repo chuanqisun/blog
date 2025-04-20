@@ -122,7 +122,7 @@ I think this is a powerful idea for engineers, designers, and product managers.
 
 1. In-place enhancement for existing React applications. It's not a rewrite. It's incremental agentification.
 1. A good React developer automatically becomes a good Agent developer, maximizing skill transfer.
-1. It paves a smooth path for UI to evolve into agents. You can imagine at some point in the future, we set `display: none` on the entire UI and what's left is a fully functional agent.
+1. It paves a smooth path for UI to disappear. You can imagine at some point in the future, we set `display: none` on the entire UI and what's left is a fully functional agent. Ultimately, the React app could become a stateful [MCP server](https://modelcontextprotocol.io).
 
 If you want to build your own agentic app with React, I've implemented the ideas in this post into the [react-agent-hooks](https://github.com/chuanqisun/react-agent-hooks) library. I hope that would give you a head start. I look forward to seeing what you build with it.
 
