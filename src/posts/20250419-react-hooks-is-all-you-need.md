@@ -113,7 +113,7 @@ I think this is a powerful idea for engineers, designers, and product managers.
 
 ## HCI merits
 
-1. The human user _is_ steering the agent by just clicking and navigating around. The human actions cause the agent state and tool availability to change.
+1. The human user _is_ steering the agent by just clicking and navigating around, because those actions cause the agent state and tool availability to change.
 1. As state and tool availability change, the agent's context window is automatically aligned with the most relevant task based on the UI.
 1. Both the human user and the agent share the entire UI state and tools to interact with it. The I/O is much richer than the prevailing prompt-driven approach.
 1. Good UI Information Architecture automatically becomes good Agent Cognitive Architecture. Many [UX laws](https://alistapart.com/article/psychology-of-design/) translate well into AI Psychology.
