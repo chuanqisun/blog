@@ -46,7 +46,7 @@ Does this look familiar to you as a frontend developer? It should. This is essen
       +-----------------------------------------------------------+
 ```
 
-But can we take it a step further? React is good at managing the state of this **Human**-initiated interaction loop. What if we use an agent to interpret user's goal and perform the most relevant actions that a real human would perform? Can we keep using React Hooks as the state management layer for the rest of the system?
+But can we take it a step further? React is good at managing the state of this _human_-initiated interaction loop. What if we use an _agent_ to interpret the user's goal and perform the most relevant actions that a real human would perform? Can we keep using React as the state management layer for the rest of the system?
 
 Let's start with a classic counter app:
 
