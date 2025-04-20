@@ -100,7 +100,7 @@ function MyAgent() {
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/edit/react-agentic-counter?file=src%2Fmain.jsx)
 
-You can BYO OpenAI API key to give the [live demo](https://stackblitz.com/edit/react-agentic-counter?file=src%2Fmain.jsx) a try.
+You can BYO OpenAI API key to [try this live](https://stackblitz.com/edit/react-agentic-counter?file=src%2Fmain.jsx).
 
 I think this is a powerful idea for engineers, designers, and product managers.
 
