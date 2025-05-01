@@ -12,7 +12,11 @@ But now, as AI sweeps across the landscape, I sense the beginning of an end to t
 
 When GPT-3 first appeared, I asked it a question, half in jest: “How do I win this game?” It replied, “The only way to win is not to play.” At first, I laughed. But the more I pondered, the deeper the answer became. We are caught in too many zero-sum games—racing to be faster, cheaper, more efficient. We compete to automate ourselves out of relevance. But what if the real victory is to step outside the game? To refuse to play by rules that no longer serve us?
 
-AI forces us to confront this choice. If you are an artist afraid of AI taking your job, perhaps you are not truly making *art*. You are doing a *job*. Seth Godin said, “When it’s your job, you want to do less of it. When it’s art, you want to do more of it.” in a [talk](https://www.youtube.com/watch?v=sXpbONjV1Jc). That was before AI, but now the truth is even sharper. Your boss or client wants to replace you with a AI, because they see your work as a job, not as art. Capitalism rewards efficiency, not beauty. Any job, including mine, will eventually be replaced. The only way to find harmony with AI is to approach our work as art, not as labor.
+AI forces us to confront this choice. If you are an artist afraid of AI taking your job, perhaps you are not truly making *art*. You are doing a *job*. Seth Godin made the difference vivid in [his talk](https://www.youtube.com/watch?v=sXpbONjV1Jc):
+
+> When it’s your job, you want to do less of it. When it’s art, you want to do more of it.
+
+That was before AI, but now the truth is even sharper. Your boss or client wants to replace you with a AI, because they see your work as a job, not as art. Capitalism rewards efficiency, not beauty. Any job, including mine, will eventually be replaced. The only way to find harmony with AI is to approach our work as art, not as labor.
 
 So here we are, at the edge of something new. We may be the last generation of programmers who write code by hand, who feel the romance of the craft. But we can also be the first generation of artists who use these new tools to create something only humans can imagine. The way forward is not to cling to the old games, but to approach our work as artists, with our strongest intention and love. With AI as our symbiotic partner, we are returning to programming as art, but in a form never seen before. 
 
