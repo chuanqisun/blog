@@ -12,7 +12,7 @@ But now, as AI sweeps across the landscape, I sense the beginning of an end to t
 
 When GPT-3 first appeared, I asked it a question, half in jest: “How do I win this game?” It replied, “The only way to win is not to play.” At first, I laughed. But the more I pondered, the deeper the answer became. We are caught in too many zero-sum games—racing to be faster, cheaper, more efficient. We compete to automate ourselves out of relevance. But what if the real victory is to step outside the game? To refuse to play by rules that no longer serve us?
 
-AI forces us to confront this choice. If you are an artist afraid of AI taking your job, perhaps you are not truly making *art*. You are doing a *job*. Seth Godin made the difference vivid in [his talk](https://www.youtube.com/watch?v=sXpbONjV1Jc):
+AI forces us to confront this choice. If you are an artist afraid of AI taking your job, perhaps you are not truly making *art*. You are doing a *job*. Seth Godin made the difference vivid in a [talk](https://www.youtube.com/watch?v=sXpbONjV1Jc):
 
 > When it’s your job, you want to do less of it. When it’s art, you want to do more of it.
 
