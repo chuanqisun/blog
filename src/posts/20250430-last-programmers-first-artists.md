@@ -1,6 +1,6 @@
 ---
 title: The Last of Programmers, the First of Artists
-date: 2024-04-30
+date: 2025-04-30
 keywords: ["ai", "reflection"]
 ---
 

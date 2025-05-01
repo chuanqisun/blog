@@ -1,6 +1,6 @@
 ---
 title: Replace with Real Title
-date: 2024-01-01
+date: YYYY-MM-DD
 keywords: ["design"]
 ---
 
