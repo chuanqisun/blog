@@ -1,4 +1,4 @@
-import { IdAttributePlugin } from "@11ty/eleventy";
+import { IdAttributePlugin, InputPathToUrlTransformPlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import { createHighlighter } from "shiki";
 
@@ -11,8 +11,7 @@ import { createHighlighter } from "shiki";
  * @returns
  */
 export default async function (eleventyConfig) {
-  const highlighter = await createHighlighter({ themes: ["dark-plus"], langs: ["js", "jsx", "ts", "tsx", "html", "css"] });
-
+  eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
   eleventyConfig.addPlugin(IdAttributePlugin);
   eleventyConfig.addPlugin(feedPlugin, {
     type: "rss",
@@ -40,6 +39,7 @@ export default async function (eleventyConfig) {
     return new Date(dateObj).toISOString();
   });
 
+  const highlighter = await createHighlighter({ themes: ["dark-plus"], langs: ["js", "jsx", "ts", "tsx", "html", "css"] });
   // ref: https://www.hoeser.dev/blog/2023-02-07-eleventy-shiki-simple/
   eleventyConfig.amendLibrary("md", (md) => {
     md.set({

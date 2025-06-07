@@ -4,6 +4,6 @@ date: YYYY-MM-DD
 keywords: ["design"]
 ---
 
-[Example link to other posts](../slug-of-post/)
+[Example link to other posts](./YYYYMMDD-name-of-file.md)
 
 
