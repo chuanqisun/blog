@@ -1,5 +1,5 @@
 ---
-title: "Backpedal to Success: A Case for Imperative Thinking"
+title: A Case for Imperative Thinking
 date: 2025-06-07
 keywords: ["learning", "cycling"]
 ---
