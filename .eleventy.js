@@ -1,3 +1,4 @@
+import { IdAttributePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import { createHighlighter } from "shiki";
 
@@ -12,6 +13,7 @@ import { createHighlighter } from "shiki";
 export default async function (eleventyConfig) {
   const highlighter = await createHighlighter({ themes: ["dark-plus"], langs: ["js", "jsx", "ts", "tsx", "html", "css"] });
 
+  eleventyConfig.addPlugin(IdAttributePlugin);
   eleventyConfig.addPlugin(feedPlugin, {
     type: "rss",
     outputPath: "/feed.xml",
