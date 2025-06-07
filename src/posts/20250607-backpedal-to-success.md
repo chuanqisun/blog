@@ -34,7 +34,7 @@ That's why moments when you *can* backpedal are rare and precious. When the syst
 
 ## Stepping Back to Move Forward
 
-This isn't the first time I've learned from going backward. In [Step back to go forward](../20240811-bike-shop-lessons/), I wrote about the value of retreat: literally stepping back to see a crooked handlebar, or reversing a wrench to find the right thread. The courage to back out, to undo, to revisit the path that led to the problem, is often what unlocks the solution.
+This isn't the first time I've learned from going backward. In [Step back to go forward](../lessons-from-a-bike-shop/), I wrote about the value of retreat: literally stepping back to see a crooked handlebar, or reversing a wrench to find the right thread. The courage to back out, to undo, to revisit the path that led to the problem, is often what unlocks the solution.
 
 Being able to step back imperatively, not just declaratively, requires humility and a willingness to question the path you're on. Sometimes, the way forward is to backpedal, to unwind, to let the system's history guide you out of the tangle.
 
