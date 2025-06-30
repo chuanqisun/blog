@@ -41,6 +41,7 @@ table {
   th,
   td {
     padding: 2px 8px;
+    vertical-align: top;
   }
 
   thead th {
