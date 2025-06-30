@@ -66,3 +66,15 @@ This framework naturally extends beyond traditional text. Consider how different
 The emergence of AI writing systems presents a particularly rich case. Here we find a **generative** dimension that encompasses the prompt, the context, the model's response, the human's steering, and the iterative refinement process. This isn't simply another voice or format; it's a new mode of authorship where intention and interpretation dance between human and machine.
 
 These observations suggest fertile ground for systematic investigation. How might we decompose music into fundamental dimensions beyond melody, harmony, and rhythm? What eigenvalues define film beyond cinematography, narrative, and sound design? Could we identify the orthogonal components of performance art, where body, space, time, and audience participation intersect? Most urgently, as natural language becomes a programming medium and AI systems become co-authors, we need rigorous frameworks to understand these hybrid forms of expression. The work begins with careful observation: collecting examples, identifying patterns, and testing whether our proposed dimensions truly capture what makes each medium distinct. Only through such systematic analysis can we build tools that genuinely augment human creativity rather than merely mimic its surface features.
+
+## Appendix
+
+Eigenvalues of this article itself
+
+| Dimension   | Eigenvalue of This Article                                                                                       |
+|-------------|------------------------------------------------------------------------------------------------------------------|
+| Content     | A conceptual proposal of five orthogonal “eigenvalues” (Content, Structure, Voice, Mood, Format) for generative text. |
+| Structure   | Blog-style layout: brief intro → five numbered sections (each defining and exemplifying a dimension) → extended reflection and appendix. |
+| Voice       | Informative-academic yet approachable: uses precise terminology alongside conversational touches and examples.    |
+| Mood        | Analytical and speculative: invites readers to theorize, experiment and extend the framework to other media.      |
+| Format      | Web essay with headings, bullets, prose paragraphs and an appendix; moderate length suitable for online reading.  |
