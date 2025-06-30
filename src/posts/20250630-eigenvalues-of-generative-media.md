@@ -8,7 +8,7 @@ Google's [Whisk experiment](https://blog.google/technology/google-labs/whisk/) d
 
 ---
 
-**Feature 1: Content**  
+## 1. Content
 
 The meaning of the text—its topics, facts, events, ideas, and any background knowledge it assumes.  
 
@@ -17,7 +17,8 @@ Examples:
 • A mystery story about a missing heirloom (introduces characters, motives, clues)  
 • An op-ed arguing for climate action (presents data, policies, values)  
 
-**Feature 2: Structure**  
+## 2. Structure
+
 The logical or narrative organization—how ideas unfold, how paragraphs/sections connect, any footnotes or sidebars.  
 
 Examples:  
@@ -25,7 +26,8 @@ Examples:
 • Three-act story arc (setup → conflict → resolution)—typical of short fiction  
 • Point-counterpoint essay (thesis → opposing view → rebuttal → conclusion)  
 
-**Feature 3: Voice**  
+## 3. Voice
+
 The author's lexical and syntactic signature—choice of words, sentence patterns, dialects, code-switching, jargon level.  
 
 Examples:  
@@ -33,7 +35,8 @@ Examples:
 • A teen's text-message style mixing slang and emoji vs. a formal business memo  
 • A bilingual narrator pausing mid-sentence to quote in Spanish then back to English  
 
-**Feature 4: Mood**  
+## 4. Mood
+
 he text's emotional and interpersonal vibe—its tone, attitude, formality, and how it invites the reader to feel or respond.  
 
 Examples:  
@@ -41,7 +44,8 @@ Examples:
 • Stern and admonishing ("This behavior is unacceptable.")  
 • Neutral and factual ("The survey recorded 45% participation.")  
 
-**Feature 5: Format**  
+## 5. Format
+
 The type and size of the document—its genre conventions and overall length, which dictate things like presence of headings, paragraphs, or dialogue.  
 
 Examples:  
