@@ -1,6 +1,6 @@
 ---
 title: Eigenvalues of Generative Media
-date: 2026-06-30
+date: 2025-06-30
 keywords: ["ai", "writing"]
 ---
 
