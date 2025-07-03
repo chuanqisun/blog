@@ -12,7 +12,7 @@ Modern frontend architectures often feel like we're fighting against the grain. 
 
 But what if we could build UIs where data flows through the DOM like water through a riverbed? Each value finding its own path, updating only what needs to change. No virtual DOM. No diffing. No unnecessary re-renders. Just data flowing directly to where it's needed.
 
-This is the promise of compositional reactivity: building interfaces from streams that compose naturally at every layer.
+This is the promise of compositional reactivity: building interfaces from streams that compose naturally at every layer, separated by concern.
 
 ## Core Principles
 
