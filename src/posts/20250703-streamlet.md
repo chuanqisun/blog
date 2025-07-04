@@ -32,7 +32,7 @@ The architecture follows a unidirectional data flow that should feel familiar, y
   User ──┐                                                        
          ▼                                                        
     ┌─────────┐     ┌─────────┐     ┌──────────┐     ┌──────┐     
-    │ Events  │────>│ Intents │────>│  State   │────>│ View │     
+    │ Events  │────►│ Intents │────►│  State   │────►│ View │     
     └─────────┘     └─────────┘     └──────────┘     └───┬──┘     
          ▲                                               │        
          │                                               │        
