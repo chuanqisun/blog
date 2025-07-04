@@ -1,7 +1,7 @@
 ---
 title: "Streamlet: Towards Compositional Reactivity"
 date: 2025-07-03
-keywords: ["ui", "architecture"]
+keywords: ["engineering", "architecture"]
 ---
 
 What if building user interfaces could be as natural as describing how data flows? Not through layers of abstraction or complex state management, but through simple composition of streams that connect directly to the DOM.
