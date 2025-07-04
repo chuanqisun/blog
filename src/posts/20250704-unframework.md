@@ -12,7 +12,7 @@ I think the industry is working backwards: giving developers really powerful abs
 
 I wanted to try something different: what if we take a utility-level library that people can work with, such as a DOM diffing/patching library and a data flow library like RxJS—can we build from the ground up, without relying on magic? I think scaffolding from first principles would result in more sustained developer learning and growth.
 
-Therefore, I'm launching an experimental UI (un)framework—[Streamlet](./20250607-grammar-of-independence.md). It requires you to understand RxJS, but aside from that, the rest is just techniques and patterns. You'd be applying generalized knowledge about reactive programming to the specialized domain of UI programming. Unlike traditional frameworks, there is nothing else to `npm install`. You can even run it in your browser without any build tools!
+Therefore, I'm launching an experimental UI (un)framework—[Streamlet](./20250703-streamlet.md). It requires you to understand RxJS, but aside from that, the rest is just techniques and patterns. You'd be applying generalized knowledge about reactive programming to the specialized domain of UI programming. Unlike traditional frameworks, there is nothing else to `npm install`. You can even run it in your browser without any build tools!
 
 I'm going to be my first user and test the hypothesis by building apps with this technique. I hope this can either lead to something useful or prove myself wrong. Stay tuned.
 
