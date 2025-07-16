@@ -16,7 +16,7 @@ This brings me to a recent argument against anthropomorphizing large language mo
 
 But perhaps anthropomorphism isn't where science ends and art begins. Consider that social sciences and humanities represent legitimate domains of inquiry where not everything reduces to mathematical axioms. Instead, we deal with conventions, vernacular, values, and beliefs. These constitute a substrate of meaning.
 
-The orthogonality between information and meaning illuminates this divide. An AI-generated article can overflow with information while remaining empty of meaning. Conversely, a haiku may contain minimal syntactic information in the Shannon sense yet encode profound meaning in semantic space. Information theory itself reveals this limitation of current language models. Consider how Claude Shannon demonstrated that rare events carry more information:
+The orthogonality between information and meaning illuminates this divide. An AI-generated article can overflow with information while remaining empty of meaning. Conversely, a haiku may contain minimal syntax yet encode profound semantics. Information theory itself reveals this limitation of current language models. Consider how Claude Shannon demonstrated that rare events carry more information:
 
 | Event | Probability | Information Content | Reaction |
 |-------|-------------|-------------------|----------|
