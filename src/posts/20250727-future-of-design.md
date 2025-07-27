@@ -28,15 +28,17 @@ History offers glimpses of what happens when barriers to creation fall. IKEA did
 
 These examples reveal a pattern: when the complexity barrier drops sufficiently, people reclaim agency over their environment. They don't always produce professional-grade results, but they create solutions perfectly fitted to their specific needs.
 
-## AI Changes the Equation
+## Rethink Job Displacement
 
-The AI revolution in design isn't about agents replacing users. It's about AI returning agency to users to shape their own digital environments. Users still need skills, but these skills leverage their existing domain expertise rather than requiring years of tool-specific training.
+The discourse around AI replacing human labor has become a tiresome battle cry, fixating on job displacement while missing the deeper question: which human roles deserve preservation? Not all intermediaries are equal. The travel agent booking flights disappeared when users gained direct access to airline systems. The financial advisor executing trades vanished when retail investors could trade directly. These roles existed because of technical barriers, not because they added irreplaceable value.
 
-A teacher with decades of classroom experience can now prototype an educational app by describing pedagogical goals rather than learning interface design principles. A nurse can create patient tracking tools that reflect real clinical workflows, not what a distant developer imagines those workflows to be.
+Designers occupy a more complex position. They do create value through empathy and synthesis, but they also exist because of artificial barriers. Recall our premise: designers emerged because software became complex, not because end users wanted to surrender their agency. If AI addresses this complexity, preserving the designer's gatekeeping role becomes an act of artificial scarcity.
 
-This shift raises uncomfortable questions. Recall our premise: designers exist because software became complex, not because end users wanted to surrender their agency. If AI addresses this complexity, is it ethical to maintain artificial barriers that force users to delegate their problem-solving to others?
+Trade theory tells us that exchange benefits parties with differentiated skills. But when users can modify their environment better because of their domain knowledge, the logic of specialization breaks down. The teacher understands education better than the designer. The nurse knows clinical workflows intimately. When they can translate this knowledge directly into tools, mediation becomes friction, not value.
 
-Trade theory tells us that exchange is beneficial when parties have differentiated skills. But when users can modify their environment better because of their domain knowledge, the logic of specialization breaks down. The teacher understands education better than the designer. The nurse knows clinical workflows intimately. When they can translate this knowledge directly into tools, mediation becomes friction, not value.
+A teacher with decades of classroom experience can now prototype an educational app by describing pedagogical goals. A nurse can create patient tracking tools that reflect real clinical workflows. A chef can design an inventory system that thinks in terms of mise en place, not spreadsheet cells.
+
+AI requires us to reframe the job displacement argument. What if everyone can become their own designer, crafting tools perfectly fitted to their needs without intermediaries translating their vision through layers of abstraction.
 
 ## Revisiting End-User Programming
 
