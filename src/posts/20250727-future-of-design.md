@@ -28,6 +28,18 @@ History offers glimpses of what happens when barriers to creation fall. IKEA did
 
 These examples reveal a pattern: when the complexity barrier drops sufficiently, people reclaim agency over their environment. They don't always produce professional-grade results, but they create solutions perfectly fitted to their specific needs.
 
+## Revisiting End-User Programming
+
+If the democratization of software design, end-user programming has historically failed for three reasons:
+
+1. The skill threshold remained high.
+2. Documentation was poor, written by engineers for engineers.
+3. Data and application ecosystems remained locked in proprietary silos.
+
+Large language models address the first two constraints. Natural language interfaces lower skill requirements dramatically. AI can generate documentation on demand, tailored to the user's level of understanding. But the ecosystem problem requires fresh thinking.
+
+We need an open platform where people can build, run, share, and remix applications. This platform would support new types of professionals and markets: domain specialists who create toolkits for their fields; coaches who help users shape their environments through human-AI interaction; and meta-tool builders creating tools that help others create tools.
+
 ## Rethink Job Displacement
 
 The discourse around AI replacing human labor has become a tiresome battle cry, fixating on job displacement while missing the deeper question: which human roles deserve preservation? Not all intermediaries are equal. The travel agent booking flights disappeared when users gained direct access to airline systems. The financial advisor executing trades vanished when retail investors could trade directly. These roles existed because of technical barriers, not because they added irreplaceable value.
@@ -39,18 +51,6 @@ Trade theory tells us that exchange benefits parties with differentiated skills.
 A teacher with decades of classroom experience can now prototype an educational app by describing pedagogical goals. A nurse can create patient tracking tools that reflect real clinical workflows. A chef can design an inventory system that thinks in terms of mise en place, not spreadsheet cells.
 
 AI requires us to reframe the job displacement argument. What if everyone can become their own designer, crafting tools perfectly fitted to their needs without intermediaries translating their vision through layers of abstraction.
-
-## Revisiting End-User Programming
-
-End-user programming has historically failed for three reasons:
-
-1. The skill threshold remained high.
-2. Documentation was poor, written by engineers for engineers.
-3. Data and application ecosystems remained locked in proprietary silos.
-
-Large language models address the first two constraints. Natural language interfaces lower skill requirements dramatically. AI can generate documentation on demand, tailored to the user's level of understanding. But the ecosystem problem requires fresh thinking.
-
-We need an open platform where people can build, run, share, and remix applications. This platform would support new types of professionals and markets: domain specialists who create toolkits for their fields; coaches who help users shape their environments through human-AI interaction; and meta-tool builders creating tools that help others create tools.
 
 ## Learning To Make, Making To Learn
 
