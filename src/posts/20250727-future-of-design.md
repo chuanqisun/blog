@@ -1,7 +1,7 @@
 ---
 title: Figma Make Is Not the Future of Design
 date: 2025-07-27
-keywords: ["ai", "design"]
+keywords: ["ai","business","design"]
 ---
 
 Figma recently launched [Figma Make](https://www.figma.com/blog/figma-make-general-availability/), a product that promises designers superpowers to prototype interactions. The marketing speaks of democratization, of lowering barriers, of making design more accessible. Yet the pricing tells a different story: Make is exclusively available to their highest "Full seat" tier. This isn't democratization. It's amplification of existing power structures.
