@@ -1,5 +1,5 @@
 ---
-title: Figma Make Is Not The Future of Design
+title: Figma Make Is Not the Future of Design
 date: 2025-07-27
 keywords: ["ai", "design"]
 ---
