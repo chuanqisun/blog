@@ -6,7 +6,7 @@ keywords: ["ai", "design"]
 
 Figma recently launched [Figma Make](https://www.figma.com/blog/figma-make-general-availability/), a product that promises designers superpowers to prototype interactions. The marketing speaks of democratization, of lowering barriers, of making design more accessible. Yet the pricing tells a different story: Make is exclusively available to their highest "Full seat" tier. This isn't democratization. It's amplification of existing power structures.
 
-While Make might rival tools like v0 and Loveable in capability, it fundamentally misunderstands the moment we're in. The audience shouldn't be designers. It should be end users.
+While Make might rival tools like [Vercel V0](https://v0.dev/) and [Loveable](https://lovable.dev/) in capability, it fundamentally misunderstands the moment we're in. The audience shouldn't be designers. It should be end users.
 
 This is a textbook case of what Clayton Christensen called [The Innovator's Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma). Figma isn't doing anything wrong by conventional business logic. They're listening to their users, responding to their needs, building features their customers request. **But innovation isn't about what the voices say. It's about whose voices you choose to hear**.
 
