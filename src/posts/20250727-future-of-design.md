@@ -40,7 +40,7 @@ Large language models address the first two constraints. Natural language interf
 
 We need an open platform where people can build, run, share, and remix applications. This platform would support new types of professionals and markets: domain specialists who create toolkits for their fields; coaches who help users shape their environments through human-AI interaction; and meta-tool builders creating tools that help others create tools.
 
-Figma Make could have been such a platform. So could V0, Loveable, CodePen, GitHub, Notion, and tldraw computer.
+Figma Make could have been such a platform. So could Vercel V0, Loveable, [CodePen Project](https://blog.codepen.io/documentation/project-editor/), [GitHub Spark](https://githubnext.com/projects/github-spark), [Notion AI](https://www.notion.com/product/ai), and [tldraw computer](https://computer.tldraw.com/home).
 
 ## Rethink Job Displacement
 
