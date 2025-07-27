@@ -60,4 +60,6 @@ Scaling design systems for an army of developers and optimizing the Figma-to-Rea
 
 Imagine, a biologist sketches a data visualization and watches it come alive. A social worker describes a case management system that actually reflects how cases unfold. A chef prototypes an inventory system that thinks in terms of mise en place, not spreadsheet cells.
 
-The revolution will not begin in Figma's offices or on professional designers' computers, but in countless moments when domain experts realize they no longer need interpreters to make their ideas real, and in every making of their ideas, they will deepen their understanding of the domain, the tool, and the needs of themselves as makers and learners. That is the future of design.
+The revolution will not begin in Figma's offices or on professional designers' computers, but in countless moments when domain experts realize they no longer need interpreters to make their ideas real, and in every making of their ideas, they will deepen their understanding of the domain, the tool, and the needs of themselves as makers and learners. 
+
+They are learning to make while making to learn. That should be the future of design.
