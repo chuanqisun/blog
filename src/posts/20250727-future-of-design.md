@@ -30,7 +30,7 @@ These examples reveal a pattern: when the complexity barrier drops sufficiently,
 
 ## Revisiting End-User Programming
 
-If the democratization of software design, end-user programming has historically failed for three reasons:
+In the democratization of software design, we attempted end-user programming, which failed for three reasons:
 
 1. The skill threshold remained high.
 2. Documentation was poor, written by engineers for engineers.
