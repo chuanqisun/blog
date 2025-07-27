@@ -40,6 +40,8 @@ Large language models address the first two constraints. Natural language interf
 
 We need an open platform where people can build, run, share, and remix applications. This platform would support new types of professionals and markets: domain specialists who create toolkits for their fields; coaches who help users shape their environments through human-AI interaction; and meta-tool builders creating tools that help others create tools.
 
+Figma Make could have been such a platform.
+
 ## Rethink Job Displacement
 
 The discourse around AI replacing human labor has become a tiresome battle cry, fixating on job displacement while missing the deeper question: which human roles deserve preservation? Not all intermediaries are equal. The travel agent booking flights disappeared when users gained direct access to airline systems. The financial advisor executing trades vanished when retail investors could trade directly. These roles existed because of technical barriers, not because they added irreplaceable value.
