@@ -10,7 +10,7 @@ While Make might rival tools like [Vercel V0](https://v0.dev/) and [Loveable](ht
 
 This is a textbook case of what Clayton Christensen called [The Innovator's Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma). Figma isn't doing anything wrong by conventional business logic. They're listening to their users, responding to their needs, building features their customers request. **But innovation isn't about what the voices say. It's about whose voices you choose to hear**.
 
-Figma, held captive by its existing market of design professionals, cannot see the emergent market growing beneath the surface, powered by AI's transformative force. They're perfecting the horse-drawn carriage while the automobile is being invented in garages around the world.
+Figma, held captive by its existing market of design professionals, cannot see the emergent market growing from the force of AI. They're perfecting the horse-drawn carriage while the automobile is being invented in garages around the world.
 
 ## Why Designers Exist
 
