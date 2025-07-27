@@ -52,7 +52,7 @@ A teacher with decades of classroom experience can now prototype an educational 
 
 AI requires us to reframe the job displacement argument. What if everyone can become their own designer, crafting tools perfectly fitted to their needs without intermediaries translating their vision through layers of abstraction.
 
-## Learn To Make, Make To Learn
+## Learning To Make, Making To Learn
 
 Figma Make represents a last gasp of the old paradigm, perfecting tools for a priesthood that may no longer be necessary.
 
@@ -62,6 +62,4 @@ Imagine, a biologist sketches a data visualization and watches it come alive. A 
 
 The revolution will not begin in Figma's offices or on professional designers' computers, but in countless moments when domain experts realize they no longer need interpreters to make their ideas real, and in every making of their ideas, they will deepen their understanding of the domain, the tool, and the needs of themselves as makers and learners. 
 
-**They are learning to make while making to learn.**
-
-That is the future of design.
+They are in a positive feedback loop of **learning to make and making to learn**. I believe systems that can help user establish and sustain this loop will be the real future of design.
