@@ -40,7 +40,7 @@ Large language models address the first two constraints. Natural language interf
 
 We need an open platform where people can build, run, share, and remix applications. This platform would support new types of professionals and markets: domain specialists who create toolkits for their fields; coaches who help users shape their environments through human-AI interaction; and meta-tool builders creating tools that help others create tools.
 
-Figma Make could have been such a platform.
+Figma Make could have been such a platform. So could V0, Loveable, CodePen, GitHub, Notion, and tldraw computer.
 
 ## Rethink Job Displacement
 
