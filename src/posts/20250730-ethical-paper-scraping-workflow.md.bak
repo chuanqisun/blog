@@ -1,0 +1,91 @@
+## Intro
+
+Why scraping
+- Publisher website may be poorly designed to meet user's needs
+- Automate Ttedious actions can save us time
+- Get structured data for downstream work
+
+Define ethical scraping:
+- Scraping is a series of shortcut we take using the browser.
+- Do NOT violate publisher policies. 
+- Example of unethical scraping:
+  - Using stolen credentials
+  - Using bot network or P2P technology to share  
+  - Redistribute, sell scraped content
+
+## Gathering information from publisher website
+
+Use case:
+- Get paper title, author, and abstract
+- Gathers URLs to download the paper (with other tools)
+
+Techniques:
+- manual console scripting
+- Use LLM dom analysis to generate script
+
+Example human written script
+```js
+...
+const data = document.querySelectorAll...
+...
+const downloadLink = ...
+downloadLink.click();
+```
+
+Prompt template
+```txt
+Based on the current document HTML, write a javascript snippet I can copy and paste in the browser console to run.
+
+Requirments:
+- Gather content in json array, each item should include: paperTitle, author, downloadUrl, abstract
+- Auto download the result.json by creating <a> tag and click it for the user
+
+Document HTML:
+{{ pasted_document_html }} 
+```
+
+## Bulk download
+
+Use case:
+- Download a large collection of papers
+- Avoid violation of rate limits
+
+Techniques:
+- Server scripting
+- Browser automation framework run
+
+
+Server scripting example (with RxJS)
+```js
+(show example using mergeMap with concurrency = 3) to avoid rate limit
+(show another example using throttle) for time based limit
+```
+
+## Browser Automation framework 
+
+Use case:
+- Perform human + machine hybrid actions.
+  - Human to perform authentication, then handoff to machine to browsing and downloading
+
+Techniques:
+- Use Playwright "test" as a scraping tool
+- Use online browser as a service for LLMs
+
+## PDF to Markdown
+
+Use case:
+- Convert paper for AI to analyze
+
+Techniques:
+- One off conversions in chat environment
+- Programmatic conversion with completion API and PDF as attachments
+
+Example prompt
+```txt
+Show an example of how to ask AI to convert paper to markdown
+```
+
+Example of pdf to markdown conversion with LLM
+```ts
+Show an example of OpenAI's latest response API with user attached content
+```
