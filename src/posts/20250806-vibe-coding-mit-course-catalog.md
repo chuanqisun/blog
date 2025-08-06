@@ -10,7 +10,7 @@ MIT's [official course catalog](https://student.mit.edu/catalog/index.cgi) runs 
 
 It's time for a hackathon!
 
-I built [Courseek](https://chuanqisun.github.io/courseek/) to solve this problem while testing how far I could push AI-assisted development. GitHub Copilot had become an expensive alternative to autocompleting functions and generating boilerplate. Could I go all in on vibe-coding this time? In addition, I want to test whether LLM can successfully use my personal [(Un)framework](./20250704-unframework.md). It would be nice to break free from always using React and Tailwind.
+I built [Courseek](https://chuanqisun.github.io/courseek/) to solve this problem while testing how far I could push AI-assisted development. GitHub Copilot had become an expensive alternative to autocompleting functions and generating boilerplate. Could I go all in on vibe-coding this time? In addition, I want to test whether LLM can successfully use my personal [(Un)framework](./20250704-unframework.md). It would be nice to break the React + Tailwind duopoly.
 
 Spoiler alert: it works!
 
