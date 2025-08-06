@@ -4,9 +4,11 @@ date: 2025-08-06
 keywords: ["report", "llm", "engineering"]
 ---
 
-I recently left Microsoft to join MIT's Media Arts and Sciences program. The transition brought an immediate problem: how do you navigate course selection when faced with the "unknown unknowns" challenge? You can easily find courses you already know you want, i.e. "known unknowns". But discovering courses you never knew existed, courses that might reshape your thinking entirely, requires different tools altogether.
+I recently left Microsoft to join MIT's Media Arts and Sciences program. The transition brought an immediate problem: how do you navigate course selection when faced with the "unknown unknowns"? You can easily find courses you already know you want learn, i.e. "known unknowns". But discovering courses you never knew existed, courses that might reshape your thinking entirely, requires different tools altogether.
 
-MIT's [official course catalog](https://student.mit.edu/catalog/index.cgi) runs on what appears to be a [CGI script](https://en.wikipedia.org/wiki/Common_Gateway_Interface) that dates back to the 1990s. You cannot search as you type. The popular student-built alternative, [Hydrant](https://hydrant.mit.edu/), offers decent search but displays one course at a time. Neither tool works well for browsing or screening multiple options simultaneously. More importantly, both tools remain stubbornly human-centric in an age where LLMs should help us make better decisions.
+MIT's [official course catalog](https://student.mit.edu/catalog/index.cgi) runs on what appears to be a [CGI script](https://en.wikipedia.org/wiki/Common_Gateway_Interface). The technology dates back to the 1990s. You cannot search as you type. Everything feels slow. The popular student-built alternative, [Hydrant](https://hydrant.mit.edu/), offers fast search but displays details for one course at a time. Neither tool works well for browsing or screening multiple options simultaneously. More importantly, both tools remain stubbornly human-centric in an age where LLMs should help us make better decisions.
+
+It's time for a hackathon!
 
 I built [Courseek](https://chuanqisun.github.io/courseek/) to solve this problem while testing how far I could push AI-assisted development. GitHub Copilot had become an expensive alternative to autocompleting functions and generating boilerplate. Could I go all in on vibe-coding this time? In addition, I want to test whether LLM can successfully use my personal [(Un)framework](./20250704-unframework.md). It would be nice to break free from always using React and Tailwind.
 
