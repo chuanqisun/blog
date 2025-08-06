@@ -8,7 +8,9 @@ I recently left Microsoft to join MIT's Media Arts and Sciences program. The tra
 
 MIT's [official course catalog](https://student.mit.edu/catalog/index.cgi) runs on what appears to be a [CGI script](https://en.wikipedia.org/wiki/Common_Gateway_Interface) that dates back to the 1990s. You cannot search as you type. The popular student-built alternative, [Hydrant](https://hydrant.mit.edu/), offers decent search but displays one course at a time. Neither tool works well for browsing or screening multiple options simultaneously. More importantly, both tools remain stubbornly human-centric in an age where LLMs should help us make better decisions.
 
-I built [Courseek](https://chuanqisun.github.io/courseek/) to solve this problem while testing how far I could push AI-assisted development. GitHub Copilot had become an expensive alternative to autocompleting functions and generating boilerplate. Could I flip the relationship entirely and dispatch goals directly to a coding LLM?
+I built [Courseek](https://chuanqisun.github.io/courseek/) to solve this problem while testing how far I could push AI-assisted development. GitHub Copilot had become an expensive alternative to autocompleting functions and generating boilerplate. Could I go all in on vibe-coding this time? In addition, I want to test whether LLM can successfully use my personal [(Un)framework](./20250704-unframework.md). It would be nice to break free from always using React and Tailwind.
+
+Spoiler alert: it works!
 
 ## Proof of Concept
 
