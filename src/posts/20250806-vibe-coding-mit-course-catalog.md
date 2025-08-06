@@ -25,8 +25,7 @@ MIT's course catalog contains around 2.3k courses. I scraped them from [MIT Cour
     instructor: d.querySelector(".course-instructor")?.textContent,
     units: d.querySelector(`[data-ex-content=".units"]`)?.textContent,
     level: d.querySelector(`[data-ex-content=".level"]`)?.textContent,
-  }))
-  .filter((d) => d.title.length);
+  }));
 ```
 
 The script outputs a JSON array in the console, which I copied and counted the tokens using [OpenAI's tokenizer](https://platform.openai.com/tokenizer) - 343k token for the entire catalog! The count feels high but JSON is more verbose than plain text and several metadata fields are irrelevant for LLM use, so we have essentially established an upper bound. Given that modern LLMs handle million-token contexts easily, I could feed the entire dataset as context for LLM to guide me through course discovery.
@@ -185,4 +184,3 @@ The tool needs a more robust full-text search engine. Possibly SQLite compiled t
 If I were to manually implement the search engine, separating matching from scoring would lead to a cleaner architecture. A focused matching function could handle tokenization and inverted indexing, leaving the scoring function to rank results based on relevance. This separation of concerns would make the system more modular and easier to maintain.
 
 The course picker taught me that the most interesting programming happens at the boundary between what machines can generate and what humans must still decide.
-
