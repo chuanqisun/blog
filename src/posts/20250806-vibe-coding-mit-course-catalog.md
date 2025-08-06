@@ -43,7 +43,7 @@ Both tools share a deeper architectural flaw: they assume **humans are the prima
 
 After this exploration, I set a clear goal: achieve search-as-you-type performance while displaying multiple course details simultaneously.
 
-## The Performance Dance
+## Iterative Prototyping
 
 The first MVP was a single HTML page with all course data embedded. Type a query, show or hide results with JavaScript. It worked but felt janky. The UI would stutter when processing large result sets.
 
