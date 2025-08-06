@@ -28,7 +28,7 @@ MIT's course catalog contains around 2.3k courses. I scraped them from [MIT Cour
   }));
 ```
 
-The script outputs a JSON array in the console, which I can copy and counted the tokens using [OpenAI's tokenizer](https://platform.openai.com/tokenizer) - 343k token for the entire catalog! The count might feel huge but JSON is more verbose than plain text and several metadata fields are irrelevant for LLM use, so we have essentially established an upper bound. Given that modern LLMs handle million-token contexts easily, I could feed the entire dataset as context for LLM to guide me through course discovery.
+The script outputs a JSON array in the console, which I copied and counted the tokens using [OpenAI's tokenizer](https://platform.openai.com/tokenizer) - 343k token for the entire catalog! The count feels high but JSON is more verbose than plain text and several metadata fields are irrelevant for LLM use, so we have essentially established an upper bound. Given that modern LLMs handle million-token contexts easily, I could feed the entire dataset as context for LLM to guide me through course discovery.
 
 ## Benchmarking the Competition
 
@@ -119,5 +119,3 @@ The workflow runs at 8:00 AM UTC (4:00 AM Eastern), downloads the latest course 
 The tool needs a more robust full-text search engine. Possibly SQLite compiled to WebAssembly could handle special characters elegantly. The real win would be deploying this as a Model Context Protocol server, letting students query course data through their preferred chat interface.
 
 The course picker taught me that the most interesting programming happens at the boundary between what machines can generate and what humans must still decide.
-
-
