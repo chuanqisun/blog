@@ -4,7 +4,7 @@ date: 2025-08-06
 keywords: ["ai", "opinion"]
 ---
 
-I never treated vibe-coding seriously until this week. I vibe-coded a personal course picker for my upcoming adventure at MIT, in just one afternoon. I got all the features I wanted and nothing I don't want.
+I have not treated vibe-coding seriously until this week. I vibe-coded a personal course picker for my upcoming adventure at MIT, in just one afternoon. I got all the features I wanted and nothing I don't want.
 
 I surprised myself so much that I had to document my vibe-coding process in [this detailed technical report](./20250806-vibe-coding-mit-course-catalog.md).
 
