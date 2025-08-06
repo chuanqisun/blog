@@ -39,7 +39,7 @@ export default async function (eleventyConfig) {
     return new Date(dateObj).toISOString();
   });
 
-  const highlighter = await createHighlighter({ themes: ["dark-plus"], langs: ["js", "jsx", "ts", "tsx", "html", "css", "diff"] });
+  const highlighter = await createHighlighter({ themes: ["dark-plus"], langs: ["js", "jsx", "ts", "tsx", "html", "css", "diff", "yaml", "json"] });
   // ref: https://www.hoeser.dev/blog/2023-02-07-eleventy-shiki-simple/
   eleventyConfig.amendLibrary("md", (md) => {
     md.set({
