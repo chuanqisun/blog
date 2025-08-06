@@ -114,6 +114,8 @@ The build process integrates data fetching directly into the deployment pipeline
 
 The workflow runs at 8:00 AM UTC (4:00 AM Eastern), downloads the latest course data, rebuilds the static site, and deploys to GitHub Pages. This serverless solution keeps data fresh without running infrastructure. The app now updates every morning.
 
+The final source code is available on [GitHub](https://github.com/chuanqisun/courseek).
+
 ## Future Directions
 
 The tool needs a more robust full-text search engine. Possibly SQLite compiled to WebAssembly could handle special characters elegantly. The real win would be deploying this as a Model Context Protocol server, letting students query course data through their preferred chat interface.
