@@ -28,6 +28,6 @@ A quick gut check left me dreading: if I do everything to a satisfying standard,
 
 Sometimes I feel jealous of people who are ignorant of the project management issues. They don't have the mental stress from making the impossible trade-offs. They just have to suffer a few all-nighters in the end. Isn't procrastination a form of information avoidance? Similar to people who refuse medical exams to avoid the possibility of finding out they have a terminal illness. Such behavior is irrational on the surface, but explainable if we consider the mental burden of knowing.
 
-Wish I was ignorent enough to procrastinate.
+Wish I was ignorant enough to procrastinate.
 
 Next week, I'll focus on focus. Identify things that are truly worth my time. For the rest, do what I can, but I'll try not to be a perfectionist.
