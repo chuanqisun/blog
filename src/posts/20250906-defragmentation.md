@@ -1,5 +1,5 @@
 ---
-title: Defrag Log 1
+title: Defragmentation
 date: 2025-09-06
 keywords: ["defrag", "school"]
 ---
@@ -25,11 +25,13 @@ Rowing is a fine tribe, but static across a term. The dues stack up. The kit get
 I signed up for the Outing Club instead. They need a mountain biking trip leader, offer ski touring trips, and the social scene feels dynamic. Easy decision. I'm in.
 
 Automation also got a pass this week. One-time investiment for compound interest.
+
 - Outlook filters so I can handle emails in bulk. Been there done that with Microsoft.
 - Calendar mirroring across Google and Outlook. But seriously why would Media Lab and MIT choose separate email providers?
 - Experimenting with [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) as a kanban for school matters. The long bet is a machine interface to my errands: actions, agents, GraphQL, it's going to be my third brain in addition to my [second](https://osmoscraft.org/).
 
 That's it. Next week is for habit building. I want a repeatable [routine](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich) but not too rigid:
+
 - Early morning for gym, running, or erging.
 - Breakfast in the apartment followed by a study hour. I need the clear mind for reading dense papers.
 - Class, lab, meetings throughout the day.
