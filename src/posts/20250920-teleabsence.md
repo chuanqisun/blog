@@ -24,4 +24,4 @@ This UI is a masterpiece of [memento mori](https://en.wikipedia.org/wiki/Memento
 
 Nothing lasts forever. Indeed, only **nothing** lasts forever.
 
-This is my [TeleAbsence](https://tangible.media.mit.edu/project/teleabsence/) moment. In Hiroshi Ishii's vision, the absence becomes presence. Here is there. Past and future are both now. We all have made those impossible promises. Perhaps the real betrayal is forgetting to carry the weight of that impossiblility while we're still here.
+This is my [TeleAbsence](https://tangible.media.mit.edu/project/teleabsence/) moment. We all have made those impossible promises. Perhaps the real betrayal is forgetting to carry the weight of that impossiblility while we're still here.
