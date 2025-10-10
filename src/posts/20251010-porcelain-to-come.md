@@ -28,7 +28,7 @@ It's unclear what the effort of mastering vibe coding prepares us for. I don't f
 
 Fundamentally, I'm losing touch with my programmer identity. Am I still myself when I vibe code?
 
-## Generation, Reproduction or Creation?
+## Generation: Reproduction or Creation?
 
 > What I cannot create, I do not understand.  
 > -- Richard Feynman
