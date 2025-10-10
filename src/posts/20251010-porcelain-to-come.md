@@ -4,7 +4,7 @@ date: 2025-10-10
 keywords: ["programming", "ai", "philosophy"]
 ---
 
-I followed the [Hacker News](https://news.ycombinator.com/item?id=45423917) thread on "[Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/). The article resonated with many programmers, validating my theory of [AI fatigue](./20240201-ai-fatigue) with a simpler framing: when the speed of code generation exceeds our speed of comprehension, we accrue a debt that eventually leads to cognitive bankruptcy.
+I followed the [Hacker News](https://news.ycombinator.com/item?id=45423917) thread on [Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/). The article resonated with many programmers, validating my theory of [AI fatigue](./20240201-ai-fatigue) with a simpler framing: when the speed of code generation exceeds our speed of comprehension, we accrue a debt that eventually leads to cognitive bankruptcy.
 
 I think the problem runs deeper than technical and cognitive debt.
 
