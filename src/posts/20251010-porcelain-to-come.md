@@ -6,7 +6,7 @@ keywords: ["programming", "ai", "philosophy"]
 
 A recent conversation with [Pat](https://www.media.mit.edu/people/patpat/overview/), a visionary technologist at MIT, and [Phoom](https://poom.dev/), a brilliant hacker-philosopher-entrepreneur, left me unsettled. We spoke about the future of programming, but the exchange felt less like charting new territory and more like watching something slip away.
 
-I had recently read an article on "[Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)" that validated my theory of [AI fatigue](./20240201-ai-fatigue). The author, [codemanship](https://codemanship.wordpress.com/), argues that when the speed of code generation exceeds the speed of understanding, we accrue a debt that eventually leads to bankruptcy.
+I also saw the hacker news debate around "[Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/). The article validated my theory of [AI fatigue](./20240201-ai-fatigue): when the speed of code generation exceeds the speed of understanding, we accrue a debt that eventually leads to cognitive bankruptcy.
 
 The metaphor is apt, but I think the problem runs deeper than technical and cognitive debt.
 
