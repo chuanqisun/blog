@@ -100,5 +100,5 @@ He also emphasized that learning programming is not merely mastering the medium,
 
 Generative AI can become the clay for people to shape their ideas. And perhaps we already have a new fabric in hand with which our civilization can come together to embody our most beautiful dreams. I urge you to consider that programming itself _is_ the generative medium for every possible futures we desire. It's on us to preserve the craft of programming and to save the futures from the capitalistic pursuit of efficiency. I can't wait to see the Chinese porcelain and Limoges to come.
 
-[Porcelain vase](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Clevelandart_1962.154.jpg/1024px-Clevelandart_1962.154.jpg)
-_Yuan Dynasty porcelain vase, c. 1300 ([source](https://en.wikipedia.org/wiki/Chinese_ceramics))_
+![Porcelain vase](https://upload.wikimedia.org/wikipedia/commons/3/31/Clevelandart_1962.154.jpg)
+_Yuan Dynasty porcelain vase, c. 1300 ([source](https://en.wikipedia.org/wiki/Chinese_ceramics#/media/File:Clevelandart_1962.154.jpg))_
