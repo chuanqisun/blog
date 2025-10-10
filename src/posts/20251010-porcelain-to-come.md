@@ -4,11 +4,9 @@ date: 2025-10-10
 keywords: ["programming", "ai", "philosophy"]
 ---
 
-A recent conversation with [Pat](https://www.media.mit.edu/people/patpat/overview/), a visionary technologist at MIT, and [Phoom](https://poom.dev/), a brilliant hacker-philosopher-entrepreneur, left me unsettled. We spoke about the future of programming, but the exchange felt less like charting new territory and more like watching something slip away.
+I followed the [Hacker News](https://news.ycombinator.com/item?id=45423917) thread on "[Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/). The article resonated with many programmers, validating my theory of [AI fatigue](./20240201-ai-fatigue) with a simpler framing: when the speed of code generation exceeds our speed of comprehension, we accrue a debt that eventually leads to cognitive bankruptcy.
 
-I also saw the hacker news debate around "[Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/). The article validated my theory of [AI fatigue](./20240201-ai-fatigue): when the speed of code generation exceeds the speed of understanding, we accrue a debt that eventually leads to cognitive bankruptcy.
-
-The metaphor is apt, but I think the problem runs deeper than technical and cognitive debt.
+I think the problem runs deeper than technical and cognitive debt.
 
 ## The Reductionist Trap
 
@@ -68,7 +66,9 @@ But technologies in our time have distorted these ideas into fearless enhancemen
 
 Programming as conquering the world is a terrible metaphor, yet it's preached everywhere. We started with AI defeating humans in chess and Go. AI labs release models that compete for medals in mathematics, as reported in [Nature](https://www.nature.com/articles/d41586-025-02343-x). We call benchmarks "[Humanity's Last Exam](https://agi.safe.ai/)", framing AI against humanity. Our fantasy toward AI is plagued with dystopian visions of takeover, warfare, automation, hallmarked by the "high tech low life" world of cyberpunk.
 
-What if we chose different metaphors? What if programming were **cartography**: visualizing known territories throughout history and lineage, highlighting frontiers according to the zone of proximal development, expanding territory by documenting new learning?
+A recent conversation with [Pat](https://www.media.mit.edu/people/patpat/overview/), a visionary technologist at MIT, and [Phoom](https://poom.dev/), a brilliant hacker-philosopher-entrepreneur, inspired me to write this article. We spoke about the future of programming and agreed on the need for a different vision. What if we chose different metaphors?
+
+What if programming were **cartography**: visualizing known territories throughout history and lineage, highlighting frontiers according to the zone of proximal development, expanding territory by documenting new learning?
 
 What if programming were **gardening**: planting seeds of small ideas, caring for them by making connections and developing constraints, cross-breeding concepts, harvesting more ideas that lead to action plans?
 
