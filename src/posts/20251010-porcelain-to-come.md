@@ -54,7 +54,7 @@ Words from the visionaries have echoed for decades. Is AI bringing us closer to 
 
 ## Augmentation and Symbiosis
 
-I think J.C.R. Licklider's "[Man-Computer Symbiosis](http://groups.csail.mit.edu/medg/people/psz/Licklider.html)" and Douglas Engelbart's "[Augmenting Human Intellect](https://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf)" are two of the most misunderstood pioneers in today's technology discourse. Both believed in symbiosis as a way to help humans evolve and adapt in pace with technology, and technology would in turn reward us with a more purposeful life.
+J.C.R. Licklider's [Man-Computer Symbiosis](http://groups.csail.mit.edu/medg/people/psz/Licklider.html) and Douglas Engelbart's [Augmenting Human Intellect](https://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf) are two of the most cited and yet misunderstood pioneers in today's technology discourse. Both envisioned how AI can transform human lives for the better, but they are appropriated by Silicon Valley founders as their philosophical grounding for [Effective Accelerationism](https://en.wikipedia.org/wiki/Effective_accelerationism) in their pitch to thoughtless VCs. Ironically, Licklider called out this misinterpretation of his vision over half a century ago:
 
 > The human operators are responsible mainly for functions that it proved infeasible to automate. Such systems [...] are not symbiotic systems. They are "semi-automatic" systems, systems that started out to be fully automatic but fell short of the goal.  
 > -- J.C.R. Licklider
@@ -63,11 +63,11 @@ Christina Engelbart, [reflecting on her father's work](https://www.dougengelbart
 
 > [...] with the explosive emergence of digital technology, the technical elements would shoot way ahead of the non-technical and cause a trend toward automating rather than augmenting peoples' activities. It would be necessary, therefore, to accelerate the co-evolutionary process, which means purposefully focusing in on the potential of human processes in concert with technological possibilities, with a special focus on those that serve to improve our collective capabilities.
 
-In current AI discourse, I'm not hearing "human processes" or "collective capabilities." Technologies in our time have distorted these ideas into fearless enhancement of human body and brain, driven by greed and ego. We're sold the idea that full automation may lead to universal basic income. But in a world void of human interests, augmentation is amputation.
+In current AI discourse, I'm not hearing "co-evolution", "human processes", or "collective capabilities." Technologies in our time have distorted these ideas into fearless enhancement of human mind and body, driven by greed and ego. We're sold the idea that full automation may lead to universal basic income. But in a world void of human interests, augmentation is amputation, income is enslavement.
 
 ## The Metaphor Problem
 
-Programming as conquering the world is a terrible metaphor, yet it's preached everywhere as the only narrative. We started with AI defeating humans in chess and Go. AI labs release models that [compete for medals](https://www.nature.com/articles/d41586-025-02343-x) in mathematics. We call benchmarks "[Humanity's Last Exam](https://agi.safe.ai/)", framing AI against humanity. Our fantasy toward AI is plagued with dystopian visions of takeover, warfare, automation, hallmarked by the "high tech low life" world of cyberpunk.
+Programming as conquering the world is a terrible metaphor, yet it's preached everywhere as the only narrative. We started with AI defeating humans in chess and Go. AI labs release models that [compete for medals](https://www.nature.com/articles/d41586-025-02343-x) in mathematics. We call benchmarks [Humanity's Last Exam](https://agi.safe.ai/), framing AI against humanity. Our fantasy toward AI is plagued with dystopian visions of takeover, warfare, automation, hallmarked by the "high tech low life" world of cyberpunk.
 
 A recent conversation with [Pat](https://www.media.mit.edu/people/patpat/overview/), a visionary technologist at MIT, and [Phoom](https://poom.dev/), a brilliant hacker-philosopher-entrepreneur, inspired me to write this article. We spoke about the future of programming and agreed on the need for a different vision. I'm curious, what if we can choose a different metaphor for programming?
 
@@ -81,7 +81,7 @@ Each metaphor unlocks different ways of thinking. Each suggests different tools,
 
 ## A Different Vision
 
-I've started research at the Media Lab with a vision to create a new programming paradigm that reflects my beliefs about programming as art and craft, that serves as the tool for personal growth and community building. I started with an inkling in "[The Last of Programmers, the First of Artists](https://stackdiver.com/posts/the-last-of-programmers-the-first-of-artists/)." I'm expanding that into a rounded vision:
+I've started research at the Media Lab with a vision to create a new programming paradigm that reflects my beliefs about programming as art and craft, that serves as the tool for personal growth and community building. I started with an inkling in [The Last of Programmers, the First of Artists](https://stackdiver.com/posts/the-last-of-programmers-the-first-of-artists/)." I'm expanding that into a rounded vision:
 
 From **learning**: revisiting constructivist learning, asking how we use language as a tool to encourage learning, and specifically why there's so little interest in adult learning.
 
