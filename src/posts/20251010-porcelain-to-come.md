@@ -26,7 +26,7 @@ A programmer must learn to think in each new abstraction to compose good program
 
 It's unclear what the effort of mastering vibe coding prepares us for. I don't feel confident about modifying my generated code, no matter how much effort I put into prompt engineering. I don't feel I'm learning a new abstraction. It feels more like gambling in a casino, pulling the lever until I hit the jackpot.
 
-Fundamentally, I'm losing touch to my programmer identity. Am I still myself when I vibe code?
+Fundamentally, I'm losing touch with my programmer identity. Am I still myself when I vibe code?
 
 ## Generation, Reproduction or Creation?
 
