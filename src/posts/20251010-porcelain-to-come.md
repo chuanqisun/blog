@@ -28,16 +28,18 @@ It's unclear what the effort of mastering vibe coding prepares us for. I don't f
 
 Fundamentally, I don't feel like a programmer anymore. Am I still myself when I vibe code?
 
-## Generation, or Creation?
+## Generation, Reproduction or Creation?
 
 > What I cannot create, I do not understand.  
 > -- Richard Feynman
 
-This statement has haunted me since I started thinking seriously about AI-generated code. I'm increasingly convinced that AI programming is more like searching through other people's code than creating something new. The creation is an illusion, a parlor trick of recombination.
+This statement has haunted me since I started thinking seriously about AI-generated code. I'm increasingly convinced that AI programming is more like searching through other people's code than creating something new. The creation is an illusion, a [mechanistic reproduction](https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction) of combinatorial possibilities.
 
-From a constructivist learning theory perspective, programming should be a perfect learning experience. The programmer assembles code through trial and error, gaining understanding through reflection. AI short-circuits this process by feeding knowledge directly to the user. This is the core of my hypothesis on "[AI fatigue](./20240201-ai-fatigue)," where validating a solution without deriving it by hand causes extreme cognitive dissonance. The damage of this lack of understanding hasn't fully manifested yet, but I suspect we're producing a generation of people who can't think independently, a kind of thought slavery to AI.
+Programming should be a creative act. The programmer assembles code through trial and error, gaining understanding through reflection. The learning is in the loop. AI short-circuits this loop by feeding knowledge directly to the user. This is the core of my hypothesis on "[AI fatigue](./20240201-ai-fatigue)," where validating a solution without deriving it by hand causes extreme cognitive dissonance. The damage of this lack of understanding hasn't fully manifested yet, but I suspect we're producing a generation of people who can't think independently, a kind of thought slavery to AI.
 
-Consider ChatGPT's [study mode](https://openai.com/index/chatgpt-study-mode/), which educators and students have embraced. Students still passively wait for AI to assess their knowledge, challenge them with questions, nudge them toward the right direction. They lose the ability to self-assess, self-challenge, self-correct. I also believe that we are piling technology onto a shaky foundation that is our educational system since the industrial age. If homework is assigned such that students prefer cheating with AI, the design of the homework is broken. We need to think about creating engagement with intrinsic motivation, not tasks to fulfill.
+Consider ChatGPT's [study mode](https://openai.com/index/chatgpt-study-mode/), which educators and students have already embraced. Students still passively wait for AI to assess their knowledge, challenge them with questions, nudge them toward the right direction. They lose the ability to self-assess, self-challenge, self-correct. In 10 years, what research questions will this generation of students ask that can fundamentally advance the human knowledge? Or are we creating an echo chamber of recycled thoughts?
+
+Children (and adults) need to **learn**, but our system is optimized to **educate**. We know our curriculum is broken when students feel like cheating with AI is the way to go. This is [not the first time](https://en.wikipedia.org/wiki/The_Social_Network) big techs are pitching a technology to solve the problems created by itself. Instead of pouring more GPUs hours and CO2 emissions to detect AI and prevent cheating, we need to think about creating engagement with intrinsic motivation.
 
 > People don't get ideas; they make them.  
 > -- Mitchel Resnick
@@ -52,47 +54,48 @@ Words from the visionaries have echoed for decades. Is AI bringing us closer to 
 
 ## Augmentation and Symbiosis
 
-I think J.C.R. Licklider's "[Man-Computer Symbiosis](http://groups.csail.mit.edu/medg/people/psz/Licklider.html)" and Douglas Engelbart's "[Augmenting Human Intellect](https://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf)" are two of the most misunderstood visions in today's technology discourse. Both believed in symbiosis as a way to help humans evolve and adapt in pace with technology, and that technology would in turn reward us with more skills to extend our activities.
+I think J.C.R. Licklider's "[Man-Computer Symbiosis](http://groups.csail.mit.edu/medg/people/psz/Licklider.html)" and Douglas Engelbart's "[Augmenting Human Intellect](https://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf)" are two of the most misunderstood pioneers in today's technology discourse. Both believed in symbiosis as a way to help humans evolve and adapt in pace with technology, and technology would in turn reward us with a more purposeful life.
 
-Licklider wrote:
-
-> The human operators are responsible mainly for functions that it proved infeasible to automate. Such systems [...] are not symbiotic systems. They are "semi-automatic" systems, systems that started out to be fully automatic but fell short of the goal.
+> The human operators are responsible mainly for functions that it proved infeasible to automate. Such systems [...] are not symbiotic systems. They are "semi-automatic" systems, systems that started out to be fully automatic but fell short of the goal.  
+> -- J.C.R. Licklider
 
 Christina Engelbart, [reflecting on her father's work](https://www.dougengelbart.org/content/view/183/153/), noted:
 
 > [...] with the explosive emergence of digital technology, the technical elements would shoot way ahead of the non-technical and cause a trend toward automating rather than augmenting peoples' activities. It would be necessary, therefore, to accelerate the co-evolutionary process, which means purposefully focusing in on the potential of human processes in concert with technological possibilities, with a special focus on those that serve to improve our collective capabilities.
 
-But technologies in our time have distorted these ideas into fearless enhancement of human body and brain, driven by capitalistic and individualistic pursuit of efficiency and productivity. In current AI discourse, I don't hear enough about "human processes" or "collective capabilities." Instead, we're sold the idea that full automation may lead to universal basic income. It's a world void of human interests but filled with economic incentives. That kind of augmentation is amputation.
+In current AI discourse, I'm not hearing "human processes" or "collective capabilities." Technologies in our time have distorted these ideas into fearless enhancement of human body and brain, driven by greed and ego. We're sold the idea that full automation may lead to universal basic income. But in a world void of human interests, augmentation is amputation.
 
 ## The Metaphor Problem
 
-Programming as conquering the world is a terrible metaphor, yet it's preached everywhere. We started with AI defeating humans in chess and Go. AI labs release models that compete for medals in mathematics, as reported in [Nature](https://www.nature.com/articles/d41586-025-02343-x). We call benchmarks "[Humanity's Last Exam](https://agi.safe.ai/)", framing AI against humanity. Our fantasy toward AI is plagued with dystopian visions of takeover, warfare, automation, hallmarked by the "high tech low life" world of cyberpunk.
+Programming as conquering the world is a terrible metaphor, yet it's preached everywhere as the only narrative. We started with AI defeating humans in chess and Go. AI labs release models that [compete for medals](https://www.nature.com/articles/d41586-025-02343-x) in mathematics. We call benchmarks "[Humanity's Last Exam](https://agi.safe.ai/)", framing AI against humanity. Our fantasy toward AI is plagued with dystopian visions of takeover, warfare, automation, hallmarked by the "high tech low life" world of cyberpunk.
 
-A recent conversation with [Pat](https://www.media.mit.edu/people/patpat/overview/), a visionary technologist at MIT, and [Phoom](https://poom.dev/), a brilliant hacker-philosopher-entrepreneur, inspired me to write this article. We spoke about the future of programming and agreed on the need for a different vision. What if we chose different metaphors?
-
-What if programming were **cartography**: visualizing known territories throughout history and lineage, highlighting frontiers according to the zone of proximal development, expanding territory by documenting new learning?
+A recent conversation with [Pat](https://www.media.mit.edu/people/patpat/overview/), a visionary technologist at MIT, and [Phoom](https://poom.dev/), a brilliant hacker-philosopher-entrepreneur, inspired me to write this article. We spoke about the future of programming and agreed on the need for a different vision. I'm curious, what if we can choose a different metaphor for programming?
 
 What if programming were **gardening**: planting seeds of small ideas, caring for them by making connections and developing constraints, cross-breeding concepts, harvesting more ideas that lead to action plans?
 
+What if programming were **cartography**: visualizing known territories throughout history and lineage, highlighting frontiers according to the zone of proximal development, expanding territory by documenting new learning?
+
 What if programming were **sculpting**: starting with a lump of raw data, using hands-on techniques like shaping, molding, throwing, turning to give it form, applying digital techniques like data cleaning, filtering, grouping, extracting, then baking to yield the final form?
 
-Each metaphor unlocks different ways of thinking. Each suggests different tools, different communities, different values. Ursula K. Le Guin invited us to see technology development as a [carrier bag rather than a weapon](https://theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-the-carrier-bag-theory-of-fiction.pdf). I want to extend that invitation to programming itself.
+Each metaphor unlocks different ways of thinking. Each suggests different tools, different communities, different values. Ursula K. Le Guin invited us to see technology development as a [carrier bag rather than a weapon](https://theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-the-carrier-bag-theory-of-fiction.pdf). I want to extend that invitation to all the programmer optimists.
 
 ## A Different Vision
 
-I've started research at the Media Lab with a vision to create a new programming paradigm that reflects my beliefs about programming as art and craft, and the practice of which should lead to personal growth and community building. I started with a vague feeling in "[The Last of Programmers, the First of Artists](https://stackdiver.com/posts/the-last-of-programmers-the-first-of-artists/)." I want to bring new perspectives to clarify:
+I've started research at the Media Lab with a vision to create a new programming paradigm that reflects my beliefs about programming as art and craft, that serves as the tool for personal growth and community building. I started with an inkling in "[The Last of Programmers, the First of Artists](https://stackdiver.com/posts/the-last-of-programmers-the-first-of-artists/)." I'm expanding that into a rounded vision:
 
-From **learning science**: revisiting constructivist learning, asking how we use language as a tool to encourage learning, and specifically why there's so little research interest in adult learning.
+From **learning**: revisiting constructivist learning, asking how we use language as a tool to encourage learning, and specifically why there's so little interest in adult learning.
 
 From **linguistics**: examining the purpose of programming languages and natural languages, exploring their synergy.
 
-From **technical** perspectives: understanding properties of LLMs (fuzzy, probabilistic, associative through embeddings, contextual) and elements of programming language design (syntax, semantics).
+From **technical** perspectives: investigate properties of LLMs (fuzzy, probabilistic, associative through embeddings, contextual) and elements of programming language design (syntax, semantics).
 
 From **philosophy**: questioning the purpose of programming (simulation, expression, existence), considering individuation, examining human conditions and whether our happiness is rooted in our ability to create.
 
+From **art**: challenging the received notion of programming, shaping critical narratives in art and technology.
+
 ## The Porcelain to Come
 
-Alan Kay wrote in his 1984 [article on computer software](https://worrydream.com/refs/Kay_1984_-_Computer_Software.pdf):
+Alan Kay wrote in his [1984 article on computer software](https://worrydream.com/refs/Kay_1984_-_Computer_Software.pdf):
 
 > It is software that gives form and purpose to a programmable machine, much as a sculptor shapes clay.
 
@@ -100,7 +103,7 @@ He also emphasized that learning programming is not merely mastering the medium,
 
 > Hence the task for someone who wants to understand software is not simply to see the pot instead of the clay. It is to see in pots thrown by beginners [...] the possibility of the Chinese porcelain and Limoges to come.
 
-Generative AI can become the clay for people to shape their ideas. And perhaps we already have a new fabric in hand with which our civilization can come together to embody our most beautiful dreams. I urge you to consider that programming itself _is_ the generative medium for every possible futures we desire. It's on us to preserve the craft of programming and to save the futures from the capitalistic pursuit of efficiency. I can't wait to see the Chinese porcelain and Limoges to come.
+I urge you to recognize that programming itself, more than the AI technology that springs from it, _is_ the generative medium that contains the multitudes of every dream we dare to dream. The act of programming, rather than the code artifacts it produces, _is_ the clay for an entire civilization to shape its collective futures. For those of you who learned the craft through countless sleepless nights of manual coding, debugging, testing, refactoring, you who inherited the hopes of generations who designed, developed, engineered, taught, shared, contributed, and sacrificed, this _is_ your Oppenheimer moment of consequence. The world awaits its Chinese porcelain and Limoges. But only your hands can shape them.
 
 ![Porcelain vase](https://upload.wikimedia.org/wikipedia/commons/3/31/Clevelandart_1962.154.jpg)
 _Yuan Dynasty porcelain vase, c. 1300 ([source](https://en.wikipedia.org/wiki/Chinese_ceramics#/media/File:Clevelandart_1962.154.jpg))_
