@@ -67,7 +67,7 @@ In current AI discourse, I'm not hearing "co-evolution", "human processes", or "
 
 ## The Metaphor Problem
 
-Programming as conquering the world is a terrible metaphor, yet it's preached everywhere as the only narrative. We started with AI defeating humans in chess and Go. AI labs release models that [compete for medals](https://www.nature.com/articles/d41586-025-02343-x) in mathematics. We call benchmarks [Humanity's Last Exam](https://agi.safe.ai/), framing AI against humanity. Our fantasy toward AI is plagued with dystopian visions of takeover, warfare, automation, hallmarked by the "high tech low life" world of cyberpunk.
+Programming as conquering the world is a terrible metaphor, yet it's preached everywhere as the only narrative. We started with AI defeating humans in chess and Go. AI labs release models that [compete for medals](https://www.nature.com/articles/d41586-025-02343-x) in mathematics. We call benchmarks [Humanity's Last Exam](https://agi.safe.ai/), framing AI against humanity, and intelligence as triumph. Our fantasy toward AI is plagued with dystopian visions of takeover, warfare, automation, hallmarked by the "high tech low life" world of cyberpunk.
 
 A recent conversation with [Pat](https://www.media.mit.edu/people/patpat/overview/), a visionary technologist at MIT, and [Phoom](https://poom.dev/), a brilliant hacker-philosopher-entrepreneur, inspired me to write this article. We spoke about the future of programming and agreed on the need for a different vision. I'm curious, what if we can choose a different metaphor for programming?
 
