@@ -59,11 +59,11 @@ J.C.R. Licklider's [Man-Computer Symbiosis](http://groups.csail.mit.edu/medg/peo
 > The human operators are responsible mainly for functions that it proved infeasible to automate. Such systems [...] are not symbiotic systems. They are "semi-automatic" systems, systems that started out to be fully automatic but fell short of the goal.  
 > -- J.C.R. Licklider
 
-Christina Engelbart, [reflecting on her father's work](https://www.dougengelbart.org/content/view/183/153/), noted:
+Christina Engelbart, [reflecting on her father's work](https://www.dougengelbart.org/content/view/183/153/), further noted what true symbiosis means:
 
 > [...] with the explosive emergence of digital technology, the technical elements would shoot way ahead of the non-technical and cause a trend toward automating rather than augmenting peoples' activities. It would be necessary, therefore, to accelerate the co-evolutionary process, which means purposefully focusing in on the potential of human processes in concert with technological possibilities, with a special focus on those that serve to improve our collective capabilities.
 
-In current AI discourse, I'm not hearing "co-evolution", "human processes", or "collective capabilities." Technologies in our time have distorted these ideas into fearless enhancement of human mind and body, driven by greed and ego. We're sold the idea that full automation may lead to universal basic income. But in a world void of human interests, augmentation is amputation, income is enslavement.
+In current AI discourse, I'm not hearing "co-evolution", "human processes", or "collective capabilities." Technologies in our time, driven by greed and ego, have distorted these ideas into fearless enhancement of human mind and body. We're sold the idea that full automation may lead to universal basic income. But in a world void of human interests, augmentation is amputation, income is enslavement.
 
 ## The Metaphor Problem
 
@@ -81,7 +81,7 @@ Each metaphor unlocks different ways of thinking. Each suggests different tools,
 
 ## A Different Vision
 
-I've started research at the Media Lab with a vision to create a new programming paradigm that reflects my beliefs about programming as art and craft, that serves as the tool for personal growth and community building. I started with an inkling in [The Last of Programmers, the First of Artists](https://stackdiver.com/posts/the-last-of-programmers-the-first-of-artists/)." I'm expanding that into a rounded vision:
+I've started research at the Media Lab with a vision to create a new programming paradigm that reflects my beliefs about programming as art and craft, that serves as the tool for personal growth and community building. I started with an inkling in [The Last of Programmers, the First of Artists](https://stackdiver.com/posts/the-last-of-programmers-the-first-of-artists/). I'm expanding that into a rounded vision:
 
 From **learning**: revisiting constructivist learning, asking how we use language as a tool to encourage learning, and specifically why there's so little interest in adult learning.
 
