@@ -39,7 +39,7 @@ Programming should be a creative act. The programmer assembles code through tria
 
 Consider ChatGPT's [study mode](https://openai.com/index/chatgpt-study-mode/), which educators and students have already embraced. Students still passively wait for AI to assess their knowledge, challenge them with questions, nudge them toward the right direction. They lose the ability to self-assess, self-challenge, self-correct. In 10 years, will this generation of students advance the frontier of human knowledge with insightful research questions? Or will they recycle machine-produced thoughts in an echo chamber?
 
-Children (and adults) need to **learn**, but our system is optimized to **educate**. We know our curriculum is broken when students feel like cheating with AI is the way to go. This is [not the first time](https://en.wikipedia.org/wiki/The_Social_Network) big techs are pitching a technology to solve the problems created by itself. Instead of pouring more GPUs hours and CO2 emissions to detect AI and prevent cheating, we need to think about creating engagement with intrinsic motivation.
+Our [institutions are broken](https://seths.blog/2020/04/but-what-could-you-learn-instead/). Children (and adults) need to **learn**, but our system is optimized to **educate**. People cheat with AI because there are better things to do than memorizing facts for exams. This is [not the first time](https://en.wikipedia.org/wiki/The_Social_Network) big tech companies are pitching a technology to solve the problems they themselves created. Instead of pouring more GPU hours and CO2 emissions into detecting AI and preventing cheating, we need to think about motivating learning, with or without AI.
 
 > People don't get ideas; they make them.  
 > -- Mitchel Resnick
