@@ -93,7 +93,7 @@ From **philosophy**: questioning the purpose of programming (simulation, express
 
 From **art**: challenging the received notion of programming, shaping critical narratives in art and technology with programs that inquire the human condition.
 
-## The Porcelain to Come
+## The Clay, The Pot, The Porcelain to Come
 
 Alan Kay wrote in his [1984 article on computer software](https://worrydream.com/refs/Kay_1984_-_Computer_Software.pdf):
 
