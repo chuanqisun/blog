@@ -16,7 +16,7 @@ The world favors a reductionist view of programming as a means of production. Fa
 
 Vibe coding rides this wave of reduction to its logical extreme. It gives people a shortcut to programs without programming. For developers who can dive into generated code and reshape it, this might be useful. I experienced this myself while "[Vibe Coding the MIT Course Catalog](https://stackdiver.com/posts/vibe-coding-the-mit-course-catalog/)," an iterative process where I could inspect and adjust. But for non-coding people, it's shooting in the dark. They get output without insight, results without comprehension.
 
-The optimists will say accuracy will improve as AI models advance. I believe them. But I also believe something else will decline: the will to patiently approach a problem from the ground up. Thinking will become lazy, muddy, fragmented. [Weakty](https://weakty.com/) observed in "[Our Efforts, In Part, Define Us](https://weakty.com/posts/efforts/)," that the lack of effort has lead to the lack of satisfaction. When a program becomes an artifact that anyone can generate with the same prompt, the activity would feel like working on the assembly line.
+The optimists will say accuracy will improve as AI models advance. I believe them. But I also believe something else will decline: the will to patiently approach a problem from the ground up. Thinking will become lazy, muddy, fragmented. [Weakty](https://weakty.com/) observed in "[Our Efforts, In Part, Define Us](https://weakty.com/posts/efforts/)," that the lack of effort has led to the lack of satisfaction. When a program becomes an artifact that anyone can generate with the same prompt, the activity would feel like working on the assembly line.
 
 ## Alignment, with Yourself
 
