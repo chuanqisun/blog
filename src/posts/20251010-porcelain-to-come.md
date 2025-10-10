@@ -91,7 +91,7 @@ From **technical** perspectives: investigate properties of LLMs (fuzzy, probabil
 
 From **philosophy**: questioning the purpose of programming (simulation, expression, existence), considering individuation, examining human conditions and whether our happiness is rooted in our ability to create.
 
-From **art**: challenging the received notion of programming, shaping critical narratives in art and technology.
+From **art**: challenging the received notion of programming, shaping critical narratives in art and technology with programs that inquire the human condition.
 
 ## The Porcelain to Come
 
