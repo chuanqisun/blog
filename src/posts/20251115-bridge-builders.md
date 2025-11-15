@@ -18,7 +18,7 @@ I cried, a little. Not because of the ending, but because a videogame had given 
 
 > "We build our games like a Japanese garden, where the design is perfect when you cannot remove anything else."
 >
-> — Jenova Chen
+> — Jenova Chen, [_Interview with Game Developer_](https://www.gamedeveloper.com/design/a-personal-journey-jenova-chen-s-goals-for-games)
 
 Journey really is a Japanese garden: no chat, no kill feed, no leaderboard. Just sand, wind, music, and one other person.
 
@@ -38,7 +38,7 @@ From the outside, the premise looks almost parodically slow. Yet watching people
 
 > "In _Death Stranding_ we're using bridges to represent connection — there are options to use them or break them. It's about making people think about the meaning of connection."
 >
-> — Hideo Kojima
+> — Hideo Kojima, [_Interview with BBC_](https://www.bbc.com/news/newsbeat-50172917)
 
 Most online games treat other players as either opponents or background noise. _Death Stranding_ quietly inverts this. You rarely see another player in real time, but you inhabit a shared landscape. Every ladder someone places, every bridge they build, every rope they leave dangling from a cliff can appear in your world.
 
