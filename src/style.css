@@ -22,14 +22,21 @@ blockquote {
   border-left: 1px solid ButtonBorder;
 }
 
+video,
+iframe,
 img {
   display: block;
   max-width: 100%;
+  max-height: 80vh;
   margin-inline: auto;
 }
 img[src^="https://developer.stackblitz.com/"]
 {
   margin: 0;
+}
+iframe {
+  width: 48rem;
+  height: 27rem;
 }
 
 table {
