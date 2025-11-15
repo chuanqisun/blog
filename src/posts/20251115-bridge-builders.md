@@ -48,16 +48,6 @@ The design reframes what "progress" means. The optimal strategy isn't just to ma
 
 We usually talk about bridges as metaphors for connection. _Death Stranding_ literalizes that metaphor and lets players inhabit it, step by step, with aching knees.
 
-## Architecture as a Time Bridge
-
-Construction on Gaudí's basilica in Barcelona started in 1882 and continues today. Generations of architects, artisans, and construction workers have dedicated their lives to a building they will never see finished. The Sagrada Família is not just architecture; it's a bridge stretched across more than a century of time.
-
-Even at a distance, the project makes two scales visible at once: the human scale of individual labor and the geologic scale of cultural projects that exceed a single lifetime. Every stone set by a mason becomes scaffolding for future work. Every design decision constrains or enables the artists decades later.
-
-The Sagrada Família operates on the same logic as _Death Stranding's_ shared world. You inherit unfinished work. You add something that will mainly benefit people you will never meet.
-
-Bridges, whether steel or stone or digital, are promises extended into the future.
-
 ## Singing for Others
 
 If _Death Stranding_ is about carrying the weight of others, _Journey_ is about lightening it.
@@ -78,9 +68,9 @@ Both _Death Stranding_ and _Journey_ rely on a particular design trick: asynchro
 
 In _Death Stranding_, you lay a ladder now so that someone else, days later, won't slip into the ravine. In _Journey_, you might be guiding a newcomer up a dune while a veteran once did the same for you. The emotional payoff arrives with a delay. You don't get an immediate dopamine hit for pressing the button. The game asks you to trust that your kindness will matter.
 
-This feels closer to real life than the zero sum loops of traditional multiplayer. Most of the meaningful bridges we build are like this. You donate to an open source project whose maintainer you'll never meet. You write documentation for a future teammate you haven't hired yet. You teach your child to be gentle, hoping they'll carry that gentleness into a world you'll no longer inhabit.
+This feels closer to real life than the zero sum loops of traditional multiplayer. Most of the meaningful bridges we build are like this. You donate to an open source project whose maintainer you'll never meet. You write documentation for a future teammate you haven't hired yet. You teach your child to be gentle, hoping they'll carry that gentleness into a world you'll no longer inhabit. Like the workers building Gaudí's Sagrada Família since 1882, we build for strangers across time. They lay stones for a cathedral they'll never see completed.
 
-The Sagrada Família will not send its builders a push notification of thanks. Its gratitude is encoded in the awe of tourists a hundred years from now.
+These games understand that gratitude doesn't always arrive as a push notification. Sometimes it's encoded in the awe of someone a hundred years from now.
 
 ## Bridge Builders
 
