@@ -5,12 +5,12 @@ keywords: ["life"]
 ---
 
 > Two comrades from the war promised they'd both show up to each other's funeral, no matter what.  
-> -- a joke
+> — a joke
 
 The joke is funny in the darkest way, but the very impossibility makes the compact even more solemn.
 
 > Absence, the highest form of presence  
-> -- James Joyce
+> — James Joyce
 
 Before Google Calendar added the birthdays tracking feature, I would manually add my friends' birthdays as repeating events. The system offered three options for when the recurring event should end:
 

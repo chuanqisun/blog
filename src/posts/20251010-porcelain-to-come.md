@@ -31,7 +31,7 @@ Fundamentally, I'm losing touch with my programmer identity. Am I still myself w
 ## Generation: Reproduction or Creation?
 
 > What I cannot create, I do not understand.  
-> -- Richard Feynman
+> — Richard Feynman
 
 This statement has haunted me since I started thinking seriously about AI-generated code. I'm increasingly convinced that AI programming is more like searching through other people's code than creating something new. The creation is an illusion, a [mechanistic reproduction](https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction) of combinatorial possibilities.
 
@@ -42,13 +42,13 @@ Consider ChatGPT's [study mode](https://openai.com/index/chatgpt-study-mode/), w
 Our [institutions are broken](https://seths.blog/2020/04/but-what-could-you-learn-instead/). Children (and adults) need to **learn**, but our system is optimized to **educate**. People cheat with AI because there are better things to do than memorizing facts for exams. This is [not the first time](https://en.wikipedia.org/wiki/The_Social_Network) big tech companies are pitching a technology to solve the problems they themselves created. Instead of pouring more GPU hours and CO2 emissions into detecting AI and preventing cheating, we need to think about motivating learning, with or without AI.
 
 > People don't get ideas; they make them.  
-> -- Mitchel Resnick
+> — Mitchel Resnick
 
 > The role of the teacher is to create the conditions for invention rather than provide ready-made knowledge.  
-> -- Seymour Papert
+> — Seymour Papert
 
 > I cannot think without writing.  
-> -- Jean Piaget
+> — Jean Piaget
 
 Words from the visionaries have echoed for decades. Is AI bringing us closer to or further from their ideals?
 
@@ -57,7 +57,7 @@ Words from the visionaries have echoed for decades. Is AI bringing us closer to 
 J.C.R. Licklider's [Man-Computer Symbiosis](http://groups.csail.mit.edu/medg/people/psz/Licklider.html) and Douglas Engelbart's [Augmenting Human Intellect](https://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf) are two of the most cited and yet misunderstood pioneers in today's technology discourse. Both envisioned how AI can transform human lives for the better, but they are appropriated by Silicon Valley founders as their philosophical grounding for [Effective Accelerationism](https://en.wikipedia.org/wiki/Effective_accelerationism) in their pitch to thoughtless VCs. Ironically, Licklider called out this misinterpretation of his vision over half a century ago:
 
 > The human operators are responsible mainly for functions that it proved infeasible to automate. Such systems [...] are not symbiotic systems. They are "semi-automatic" systems, systems that started out to be fully automatic but fell short of the goal.  
-> -- J.C.R. Licklider
+> — J.C.R. Licklider
 
 Christina Engelbart, [reflecting on her father's work](https://www.dougengelbart.org/content/view/183/153/), further noted what true symbiosis means:
 

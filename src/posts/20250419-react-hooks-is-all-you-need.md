@@ -10,7 +10,7 @@ The agent hype is still on the rise but the quality and efficiency of agentic sy
 >
 > If we [...] accept that "an AI Agent is basically a for loop", then what's the lispy version of this? And AI agent is a foldL where the accumulator is a context window, and the reducer is an LLM DetermineNextStep + a switch statement on how to handle it.
 >
-> -- [12-factor-agents](https://github.com/humanlayer/12-factor-agents/blob/main/content/factor-12-stateless-reducer.md)
+> — [12-factor-agents](https://github.com/humanlayer/12-factor-agents/blob/main/content/factor-12-stateless-reducer.md)
 
 As a functional programming lover, I'm drooling over that diagram:
 

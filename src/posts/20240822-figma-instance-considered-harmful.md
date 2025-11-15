@@ -6,11 +6,11 @@ keywords: ["design", "figma"]
 
 > Composition over inheritance
 >
-> -- Object-oriented programming principle
+> — Object-oriented programming principle
 
 > Copying a frame is better than detaching an instance
 >
-> -- A pet theory of mine
+> — A pet theory of mine
 
 Component instancing has become more and more problemmatic in Figma
 
@@ -23,7 +23,3 @@ My call to action is resisting the temptation in componentizing above the atom l
 
 - A library author can use components to intentionally limit choice, preventing off-brand composition.
 - A library consumer can use components to repeat elements on the UI without losing bulk editability. (Figma added [multi-edit](https://help.figma.com/hc/en-us/articles/21635177948567-Edit-objects-on-the-canvas-in-bulk) recently so this motivation might fall out of relevance)
-
-
-
-
