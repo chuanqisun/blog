@@ -68,9 +68,11 @@ Both _Death Stranding_ and _Journey_ rely on a particular design trick: asynchro
 
 In _Death Stranding_, you lay a ladder now so that someone else, days later, won't slip into the ravine. In _Journey_, you might be guiding a newcomer up a dune while a veteran once did the same for you. The emotional payoff arrives with a delay. You don't get an immediate dopamine hit for pressing the button. The game asks you to trust that your kindness will matter.
 
-This feels closer to real life than the zero sum loops of traditional multiplayer. Most of the meaningful bridges we build are like this. You donate to an open source project whose maintainer you'll never meet. You write documentation for a future teammate you haven't hired yet. You teach your child to be gentle, hoping they'll carry that gentleness into a world you'll no longer inhabit. Like the workers building Gaudí's Sagrada Família since 1882, we build for strangers across time. They lay stones for a cathedral they'll never see completed.
+This feels closer to real life than the zero sum loops of traditional multiplayer. Most of the meaningful bridges we build are like this. You answer a coding question on Stack Overflow for someone you'll never meet, who might not even thank you. You write documentation for a future teammate you haven't hired yet. You teach your child to be gentle, hoping they'll carry that gentleness into a world you'll no longer inhabit. Like the workers building Gaudí's Sagrada Família since 1882, we build for strangers across time.
 
-These games understand that gratitude doesn't always arrive as a push notification. Sometimes it's encoded in the awe of someone a hundred years from now.
+These games understand that gratitude doesn't always arrive as a push notification. Sometimes it's encoded in the relief of a developer three years from now, finding your answer at 2 AM. Sometimes it's the awe of someone a hundred years from now.
+
+The creators of collaborative architectures understand that gratitude doesn't always arrive as a push notification. Sometimes it's encoded in the awe of someone a hundred years from now.
 
 ## Bridge Builders
 
