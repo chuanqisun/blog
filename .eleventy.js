@@ -31,6 +31,7 @@ export default async function (eleventyConfig) {
     },
   });
   eleventyConfig.addPassthroughCopy("src/style.css");
+  eleventyConfig.addPassthroughCopy("src/assets");
 
   eleventyConfig.addFilter("humanDate", (dateObj) => {
     return new Date(dateObj).toLocaleDateString("en-US");
