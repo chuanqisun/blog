@@ -20,7 +20,7 @@ The Web becomes especially attractive as local agents enable more interactive en
 
 _All inside the browser!_
 
-The browser is the universal game engine for making playful, useful, and artful things. Builders in the Web ecosystem, this is your opportunity to solve hard problems with new tools. Let's make the Web great again!
+The browser is the universal game engine for making playful, useful, and artful things. Builders in the Web ecosystem, this is your opportunity to solve hard problems with new tools.
 
 Ready to step up your game? Go read and practice:
 
@@ -29,3 +29,5 @@ Ready to step up your game? Go read and practice:
 - [Atomics API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics)
 - [Origin Private File System (OPFS)](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system)
 - [Performance Engineering](https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+
+Let's make the Web great again!
