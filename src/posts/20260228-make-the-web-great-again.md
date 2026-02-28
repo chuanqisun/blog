@@ -7,8 +7,8 @@ keywords: ["engineering", "ai"]
 AI has finally cross️ed the threshold for writing WebAssembly. Not just understanding and explaining it, but implementing new algorithms and optimizing for performance.
 
 In two days, I published:
-- [Fast Theta](https://lnkd.in/ecuqbvRq):  a cosine similarity library that is 3× the state of art
-- [Eigen DB](https://lnkd.in/efbCaszK): a vector search engine that is 6-10× the baseline
+- [Fast Theta](https://github.com/chuanqisun/fast-theta), cosine similarity 3× the state of art
+- [Eigen DB](https://github.com/chuanqisun/eigen-db), vector search 6-10× the baseline
 
 Both libraries are written in _raw assembly_ and runs in your browser:
 
