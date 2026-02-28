@@ -12,7 +12,7 @@ In two days, I published:
 
 Both libraries are written in _raw assembly_ and runs in your browser.
 
-The performance boost is no surprise - compiled WASM is supposed to be faster than interpreted JS. I'm both amused and concerned that no one seems to have built these before given how useful they are to LLM related systems. It feels as if the Web ecosystem is being hollowed out by Python because Python is the default language for AI but people stopped caring about anything else that is not strongly associated with AI.
+The performance boost is no surprise - compiled WASM is supposed to be faster than interpreted JS. I'm both amused and concerned that no one seems to have built these before given how useful they are to LLM related systems. It feels as if the Web ecosystem is being hollowed out by Python because Python is the default language for AI. I feel people stopped caring about anything else that is not strongly associated with AI.
 
 So here is a reminder: not everyone has the right Docker setup to wrangle a Python environment, but everyone has a browser that can run JavaScript, WebAssembly, and Web GPU shader code.
 
