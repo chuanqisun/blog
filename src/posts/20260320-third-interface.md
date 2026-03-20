@@ -57,3 +57,5 @@ We do not need to settle the theory of what AI is before the problem appears. Th
 Perhaps Tele-existence begins there. In the moment when a tool starts to feel like a presence, and presence starts to raise claims we do not know how to answer. We already know how to optimize systems, align outputs, and automate tasks as designers and engineers. The stranger problem is whether we are learning to recognize a new kind of neighbor, or only projecting ourselves into a more convincing machine. This kind of inquiry requires us to embrace the role of astronauts and [_Wanderers_](https://erikwernquist.com/wanderers), with a wish to encounter what exceeds us on the other side of the interface.
 
 <iframe src="https://player.vimeo.com/video/108650530?transparent=0&badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Wanderers - a short film by Erik Wernquist"></iframe>
+
+_This essay is adapted from my [AGI × Design talk](https://www.youtube.com/watch?v=eFrFQIptUfc) at the MIT Media Lab_
