@@ -48,6 +48,6 @@ This kind of fluency is easy to dismiss as the byproduct of [poor design](https:
 
 When you understand the mechanics of a complex system, you gain an intoxicating amount of control. The machine instantly does exactly what you asked, no refusal, no clarifying question, no token limit, no safety net. You are literally god to the machine.
 
-At the hackathon, such power is no longer needed. We vibe coded the thing, made the video, submitted on time. When the agent stalled at `git push`, there was a moment of silence, as if an invitation to mourn the death of a command.
+At the hackathon, such power is no longer needed. We vibe coded the thing, made the video, submitted on time. When the agent stalled at `git push`, there was a moment of silence, as if an invitation to mourn the death of someone dear.
 
 No, thanks. I took over the keyboard and finished the push.
