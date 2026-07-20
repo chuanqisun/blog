@@ -40,7 +40,7 @@ It is a small mixture of fear, control, and relief. Your change is leaving the m
 
 People around me increasingly ask agents to handle Git. This is reasonable. The hostile interface of git is the origin of many [horrors](https://www.reddit.com/r/git/comments/1mcppv8/whats_the_worst_git_mistake_youve_seen_or_done) and [curses](https://ohshitgit.com/). An agent wraps the machine interface in a human conversation. You say what you want. It finds the command.
 
-I do the same with `ffmpeg`. I ask an agent to extract audio, adjust sizes, extract audio, change a codec. I doubt many people will or should learn more than 10% of what `ffmpeg` can do.
+I do the same with `ffmpeg`. I ask an agent to extract audio, adjust sizes, extract audio, change a codec. I doubt many people will or should learn more than 1% of what `ffmpeg` can do.
 
 But those people do exist. I watched someone operate `ffmpeg` from memory. They type a long command with filters, maps, codecs, frame rates, and flags arranged in an order I cannot read. The machine obeys precisely. The pianist found a chord without looking down.
 
