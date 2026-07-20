@@ -46,8 +46,8 @@ But those people do exist. I watched someone operate `ffmpeg` from memory. They 
 
 This kind of fluency is easy to [dismiss](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/) as productivity porn. Nobody becomes more human by memorizing flags. But I also know that the pleasure was real.
 
-When you understand the mechanics of a complex system, you gain an intoxicating amount of power. The machine instantly does exactly what you asked, no refusal, no clarifying question, no token limits, no safety net. You are literally god to the machine.
+When you understand the mechanics of a complex system, you gain an intoxicating amount of control. The machine instantly does exactly what you asked, no refusal, no clarifying question, no token limit, no safety net. You are literally god to the machine.
 
-At the hackathon, such power is no longer needed. We made the thing. We made the video. We submitted on time. Still, when the agent stalled at `git push`, there was a moment of silence, as if an invitation to mourn the death of that feeling.
+At the hackathon, such power is no longer needed. We vibe coded the thing, made the video, submitted on time. When the agent stalled at `git push`, there was a moment of silence, as if an invitation to mourn the death of a command.
 
 No, thanks. I took over the keyboard and finished the push.
