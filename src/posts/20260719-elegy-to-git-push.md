@@ -44,7 +44,7 @@ I do the same with `ffmpeg`. I ask an agent to extract audio, adjust sizes, extr
 
 But those people do exist. I watched someone operate `ffmpeg` from memory. They type a long command with filters, maps, codecs, frame rates, and flags arranged in an order I cannot read. The machine obeys precisely. The pianist found a chord without looking down.
 
-This kind of fluency is easy to [dismiss](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/) as productivity porn. Nobody becomes more human by memorizing flags. But I also know that the pleasure was real.
+This kind of fluency is easy to [dismiss](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/) as the byproduct of poor design. Nobody becomes more human by memorizing flags. But I also know that the pleasure was real.
 
 When you understand the mechanics of a complex system, you gain an intoxicating amount of control. The machine instantly does exactly what you asked, no refusal, no clarifying question, no token limit, no safety net. You are literally god to the machine.
 
