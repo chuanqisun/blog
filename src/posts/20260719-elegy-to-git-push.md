@@ -16,7 +16,7 @@ We got stuck twice. The first time, someone ran out of Claude Code quota. They t
 
 This is at MIT, where a different generation of hackers were born.
 
-Hackathons used to fall apart sometime after midnight. The coffee ran out. The codebase was near collapse. You stopped naming variables well. You patched one bug and heard another part of the program crack. At 4 AM, with half your brain asleep, you typed `git push` directly from `master`, something you would never approve in daylight, and watched it work.
+Hackathons peak sometime after midnight. The coffee ran out. The codebase was near collapse. You stopped naming variables well. You patched one bug and heard another part of the program crack. At 4 AM, with half your brain asleep, you typed `git push` directly from `master`, something you would never approve in daylight, and watched it work.
 
 You told yourself, fuck it, this is my last hackathon.
 
