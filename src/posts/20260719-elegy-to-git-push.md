@@ -22,6 +22,18 @@ You told yourself, fuck it, this is my last hackathon.
 
 For a second, the cursor stays still. Then the lines begin to move. Objects counted. Objects compressed. The remote resolves its deltas. You wait for the prompt to return.
 
+```txt
+Enumerating objects: 25, done.
+Counting objects: 100% (25/25), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (16/16), done.
+Writing objects: 100% (6/6), 8979 bytes | 2.57 MiB/s, done.
+Total 94 (delta 37), reused 14 (delta 3), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (27/27), completed with 27 local objects.
+To github.com:chuanqisun/hackathon.git
+   4344b56..96e8691  master -> master
+```
+
 `git push` used to carry feelings.
 
 It is a small mixture of fear, control, and relief. Your change is leaving the machine in front of you and entering a shared history. You know enough about the system to imagine several ways this could go wrong. That knowledge gives the command its weight.
