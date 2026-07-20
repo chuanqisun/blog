@@ -22,7 +22,8 @@ You told yourself, fuck it, this is my last hackathon.
 
 For a second, the cursor stays still. Then the lines begin to move. Objects counted. Objects compressed. The remote resolves its deltas. You wait for the prompt to return.
 
-```txt
+```zsh
+➜ hackathon git:(master) git push
 Enumerating objects: 25, done.
 Counting objects: 100% (25/25), done.
 Delta compression using up to 8 threads
