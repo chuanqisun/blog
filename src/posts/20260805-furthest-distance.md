@@ -85,7 +85,7 @@ At Terminal 4, her hand grasped mine. I slipped away without an _Auf Wiedersehen
 
 I called while running from the lot. She stepped out of the security line, allowing me to hold her and kiss a proper goodbye. The arithmetic was plain. I was sadder by some margin. I was the one farther in. Pulling away had begun to feel like removing part of my own body.
 
-That night, Delta 92 left JFK for Berlin. Near the Gulf of St. Lawrence, the plane reported a navigation-system error, turned around, and landed at Logan. She came back to my city at thirty thousand feet. She sat on my runway for a few hours, then left again. I read about it at midnight on my phone.
+That night, Delta 92 left JFK for Berlin. Near the Gulf of St. Lawrence, the plane reported a navigation-system error, turned around, and landed at Logan. She came back to where it began, then left again. I read about it at midnight on my phone.
 
 I changed the course of an airplane. I could not change the course of her heart.
 
