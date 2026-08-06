@@ -43,7 +43,7 @@ She wanted the best for me and wore herself down carrying it. We both wanted the
 
 The Japanese barbecue came later. Smoke gathered over the table while strips of meat tightened on the grill. “This feels like a date,” I said.
 
-Feels. Like. Two doors left half closed.
+Fucking. Feels. Like. Two doors left half closed.
 
 She came around to my side of the table and corrected my grip on the chopsticks, her hands over mine. I sat very still, believing something was beginning, while doing nothing to begin it.
 
