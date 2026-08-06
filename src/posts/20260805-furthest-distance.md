@@ -73,7 +73,7 @@ On Wednesday, I learned she would fly Friday from New York to Berlin. I drove do
 
 In the hotel room, the Boston Terrier changed hands, along with my letter about apology and love. By the window, the hours went soft and long. We talked beyond the point where talking helped because silence would have ended the night, and neither of us was willing to end it first. What happened afterward belonged to no future we shared. She regretted it for my sake. I regretted it for hers. The night went unclaimed.
 
-The next morning, we had brunch at the Church of the Heavenly Rest. Light came through the glass at an angle that deserved a better story. Neither of us had slept. Neither could pick the subject up again. She did not finish her food. She never has. I finished it for her. I always do.
+The next morning, we had brunch at the Church of the Heavenly Rest. Light came through the glass at an angle that deserved a better story. Neither of us had slept. Neither could pick the subject up again. She did not finish her food. She never has. I helped her out. I always do.
 
 At Terminal 4, she took the suitcase handle. Her hand left mine, then had to be made to leave it. Soon there was only the car, the road, and the first hundred meters of absence. Then the missing thing announced itself. I made a sharp U-turn and parked.
 
