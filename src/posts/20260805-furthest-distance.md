@@ -1,7 +1,7 @@
 ---
 title: The Furthest Distance
 date: 2026-08-05
-keywords: ["essay", "boston", "love"]
+keywords: ["essay"]
 ---
 
 At four in the afternoon, the Van Wyck moves the way water moves through a clogged drain. Her suitcase is in the trunk. I keep one hand on the wheel and the other on the volume knob. I turn it up two clicks, the bravest thing I will do all day.
