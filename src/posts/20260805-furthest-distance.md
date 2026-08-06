@@ -75,7 +75,7 @@ In the hotel room, the Boston Terrier changed hands, along with my letter about 
 
 The next morning, we had brunch at the Church of the Heavenly Rest. Light came through the glass at an angle that deserved a better story. Neither of us had slept. Neither could pick the subject up again. She did not finish her food. She never has. I helped her out. I always do.
 
-At Terminal 4, she took the suitcase handle. Her hand left mine, then had to be made to leave it. Soon there was only the car, the road, and the first hundred meters of absence. Then the missing thing announced itself. I made a sharp U-turn and parked.
+At Terminal 4, her hand grasped mine. I slipped away without an _Auf Wiedersehen_. Soon there was only the car, the road, and the first hundred meters of absence. Then the missing thing announced itself. I made a sharp U-turn and parked.
 
 > _I know your voice, I know your face_  
 > _This is something I cannot replace_  
@@ -87,7 +87,7 @@ I called while running from the lot. She stepped out of the security line, allow
 
 That night, Delta 92 left JFK for Berlin. Near the Gulf of St. Lawrence, the plane reported a navigation-system error, turned around, and landed at Logan. She came back to my city at thirty thousand feet. She sat on my runway for a few hours, then left again. I read about it at midnight on my phone.
 
-We changed the course of an airplane. We could not change the course of her heart.
+I changed the course of an airplane. I could not change the course of her heart.
 
 > _In the moonlight I felt your heart_  
 > _Quiver like a bow string’s pulse_  
@@ -98,7 +98,7 @@ Later, I made her a video and uploaded it to YouTube as unlisted, a link that ex
 
 She lives by rules. Too many people crowd her, and rules are the walls she is allowed to build. I crossed many of them without noticing they were there. The one she regrets most is allowing me to kiss her in New York. The moment I want to keep is the one she wants returned.
 
-Behind all this are untold stories about my childhood, my house, and a school where those three words were not permitted. They might explain the silence. They cannot excuse what the silence did.
+Behind all this are untold stories about my childhood, my house, and a school where those three words were not permitted. They might explain. They would not excuse.
 
 Near the end, she told me that a person cannot feel an emotion they did not feel. Reasons arriving afterward change nothing. Every explanation can be correct, and still the feeling will not appear.
 
@@ -108,4 +108,4 @@ Near the end, she told me that a person cannot feel an emotion they did not feel
 > _yet you don’t know that I love you._  
 > from “The Single Bed in the Wallet” by Zhang Xiaoxian
 
-Somewhere over Boston Harbor, her plane takes off again. For a moment, it is close enough to the city to seem returnable. Then the lights diminish into the second half of the night, and distance resumes.
+Somewhere over Boston Harbor, her plane takes off again. For a few seconds it is low enough to belong to the city. Then it is a light, then it is not.
