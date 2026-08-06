@@ -71,9 +71,7 @@ At Yume wo Katare, I ordered the wrong flavor for both of us. We walked home for
 
 On Wednesday, I learned she would fly Friday from New York to Berlin. I drove down alone to see her one last time. The embroidered Boston Terrier rode in the passenger seat for five hours, staring at the turnpike with its startled eyes.
 
-At the hotel desk, she booked two rooms. The machine made a small industrial sound as it produced the second key card. I said, “Thank you.”
-
-In her room, the Boston Terrier changed hands, along with my letter about apology and love. By the window, the hours went soft and long. We talked beyond the point where talking helped because silence would have ended the night, and neither of us was willing to end it first. What happened afterward belonged to no future we shared. She regretted it for my sake. I regretted it for hers. The night went unclaimed.
+In the hotel room, the Boston Terrier changed hands, along with my letter about apology and love. By the window, the hours went soft and long. We talked beyond the point where talking helped because silence would have ended the night, and neither of us was willing to end it first. What happened afterward belonged to no future we shared. She regretted it for my sake. I regretted it for hers. The night went unclaimed.
 
 The next morning, we had brunch at the Church of the Heavenly Rest. Light came through the glass at an angle that deserved a better story. Neither of us had slept. Neither could pick the subject up again. She did not finish her food. She never has. I finished it for her. I always do.
 
