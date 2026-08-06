@@ -79,8 +79,8 @@ At Terminal 4, her hand grasped mine. I slipped away without an _Auf Wiedersehen
 
 > _I know your voice, I know your face_  
 > _This is something I cannot replace_  
-> _..  
-> \_You’re a part of me and I’m a part of you_  
+> _..._  
+> _You’re a part of me and I’m a part of you_  
 > from “Bones” by Low Roar
 
 I called while running from the lot. She stepped out of the security line, allowing me to hold her and kiss a proper goodbye. The arithmetic was plain. I was sadder by some margin. I was the one farther in. Pulling away had begun to feel like removing part of my own body.
